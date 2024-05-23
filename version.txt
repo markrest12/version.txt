@@ -1,1 +1,2276 @@
-1.4
+<html class="windows" lang="pl">
+ <head>
+  <style data-emotion="css fyq6mk-container" data-s="">
+   .css-fyq6mk-container{position:relative;box-sizing:border-box;width:100%;}
+  </style>
+  <style data-emotion="css 7pg0cj-a11yText" data-s="">
+   .css-7pg0cj-a11yText{z-index:9999;border:0;clip:rect(1px, 1px, 1px, 1px);height:1px;width:1px;position:absolute;overflow:hidden;padding:0;white-space:nowrap;}
+  </style>
+  <style data-emotion="css 11r928y-control" data-s="">
+   .css-11r928y-control{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;cursor:default;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-flex-wrap:wrap;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:justify;-webkit-justify-content:space-between;justify-content:space-between;min-height:38px;outline:none;position:relative;-webkit-transition:all 100ms;transition:all 100ms;background-color:hsl(0, 0%, 100%);border-color:hsl(0, 0%, 80%);border-radius:none;border-style:solid;border-width:1px;box-shadow:none;box-sizing:border-box;border:0px;border-right:0;font-size:0.75rem;border-top-left-radius:var(--legacy-l-border-radius);}.css-11r928y-control:hover{box-shadow:none;}
+  </style>
+  <style data-emotion="css 1u8gwyq" data-s="">
+   .css-1u8gwyq{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:grid;-webkit-flex:1;-ms-flex:1;flex:1;-webkit-box-flex-wrap:wrap;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-overflow-scrolling:touch;position:relative;overflow:hidden;padding:2px 8px;box-sizing:border-box;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;}
+  </style>
+  <style data-emotion="css 1uzhr1e-singleValue" data-s="">
+   .css-1uzhr1e-singleValue{grid-area:1/1/2/3;max-width:100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;color:hsl(0, 0%, 20%);margin-left:2px;margin-right:2px;box-sizing:border-box;display:block;}
+  </style>
+  <style data-emotion="css 1hac4vs-dummyInput" data-s="">
+   .css-1hac4vs-dummyInput{background:0;border:0;caret-color:transparent;font-size:inherit;grid-area:1/1/2/3;outline:0;padding:0;width:1px;color:transparent;left:-100px;opacity:0;position:relative;-webkit-transform:scale(.01);-moz-transform:scale(.01);-ms-transform:scale(.01);transform:scale(.01);}
+  </style>
+  <style data-emotion="css 1wy0on6" data-s="">
+   .css-1wy0on6{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-align-self:stretch;-ms-flex-item-align:stretch;align-self:stretch;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;box-sizing:border-box;}
+  </style>
+  <style data-emotion="css 1xc3v61-indicatorContainer" data-s="">
+   .css-1xc3v61-indicatorContainer{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:color 150ms;transition:color 150ms;color:hsl(0, 0%, 80%);padding:8px;box-sizing:border-box;}.css-1xc3v61-indicatorContainer:hover{color:hsl(0, 0%, 60%);}
+  </style>
+  <style data-emotion="css 8mmkcg" data-s="">
+   .css-8mmkcg{display:inline-block;fill:currentColor;line-height:1;stroke:currentColor;stroke-width:0;}
+  </style>
+  <style data-emotion="css fyq6mk-container" data-s="">
+   .css-fyq6mk-container{position:relative;box-sizing:border-box;width:100%;}
+  </style>
+  <style data-emotion="css 7pg0cj-a11yText" data-s="">
+   .css-7pg0cj-a11yText{z-index:9999;border:0;clip:rect(1px, 1px, 1px, 1px);height:1px;width:1px;position:absolute;overflow:hidden;padding:0;white-space:nowrap;}
+  </style>
+  <style data-emotion="css 1k0ta1s-control" data-s="">
+   .css-1k0ta1s-control{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;cursor:default;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-flex-wrap:wrap;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:justify;-webkit-justify-content:space-between;justify-content:space-between;min-height:38px;outline:none;position:relative;-webkit-transition:all 100ms;transition:all 100ms;background-color:hsl(0, 0%, 100%);border-color:hsl(0, 0%, 80%);border-radius:none;border-style:solid;border-width:1px;box-shadow:none;box-sizing:border-box;border:0px;border-right:0;font-size:0.75rem;border-top-right-radius:var(--legacy-l-border-radius);}.css-1k0ta1s-control:hover{box-shadow:none;}
+  </style>
+  <style data-emotion="css 1u8gwyq" data-s="">
+   .css-1u8gwyq{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:grid;-webkit-flex:1;-ms-flex:1;flex:1;-webkit-box-flex-wrap:wrap;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-overflow-scrolling:touch;position:relative;overflow:hidden;padding:2px 8px;box-sizing:border-box;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;}
+  </style>
+  <style data-emotion="css 1uzhr1e-singleValue" data-s="">
+   .css-1uzhr1e-singleValue{grid-area:1/1/2/3;max-width:100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;color:hsl(0, 0%, 20%);margin-left:2px;margin-right:2px;box-sizing:border-box;display:block;}
+  </style>
+  <style data-emotion="css 1hac4vs-dummyInput" data-s="">
+   .css-1hac4vs-dummyInput{background:0;border:0;caret-color:transparent;font-size:inherit;grid-area:1/1/2/3;outline:0;padding:0;width:1px;color:transparent;left:-100px;opacity:0;position:relative;-webkit-transform:scale(.01);-moz-transform:scale(.01);-ms-transform:scale(.01);transform:scale(.01);}
+  </style>
+  <style data-emotion="css 1wy0on6" data-s="">
+   .css-1wy0on6{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-align-self:stretch;-ms-flex-item-align:stretch;align-self:stretch;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;box-sizing:border-box;}
+  </style>
+  <style data-emotion="css 1xc3v61-indicatorContainer" data-s="">
+   .css-1xc3v61-indicatorContainer{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:color 150ms;transition:color 150ms;color:hsl(0, 0%, 80%);padding:8px;box-sizing:border-box;}.css-1xc3v61-indicatorContainer:hover{color:hsl(0, 0%, 60%);}
+  </style>
+  <style data-emotion="css 8mmkcg" data-s="">
+   .css-8mmkcg{display:inline-block;fill:currentColor;line-height:1;stroke:currentColor;stroke-width:0;}
+  </style>
+  <style data-emotion="css fyq6mk-container" data-s="">
+   .css-fyq6mk-container{position:relative;box-sizing:border-box;width:100%;}
+  </style>
+  <style data-emotion="css 7pg0cj-a11yText" data-s="">
+   .css-7pg0cj-a11yText{z-index:9999;border:0;clip:rect(1px, 1px, 1px, 1px);height:1px;width:1px;position:absolute;overflow:hidden;padding:0;white-space:nowrap;}
+  </style>
+  <style data-emotion="css nky6oq-control" data-s="">
+   .css-nky6oq-control{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;cursor:default;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-flex-wrap:wrap;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:justify;-webkit-justify-content:space-between;justify-content:space-between;min-height:38px;outline:none;position:relative;-webkit-transition:all 100ms;transition:all 100ms;background-color:hsl(0, 0%, 100%);border-color:hsl(0, 0%, 80%);border-radius:none;border-style:solid;border-width:1px;box-shadow:none;box-sizing:border-box;border:0px;border-right:0;font-size:0.75rem;}.css-nky6oq-control:hover{box-shadow:none;}
+  </style>
+  <style data-emotion="css 1u8gwyq" data-s="">
+   .css-1u8gwyq{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:grid;-webkit-flex:1;-ms-flex:1;flex:1;-webkit-box-flex-wrap:wrap;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-overflow-scrolling:touch;position:relative;overflow:hidden;padding:2px 8px;box-sizing:border-box;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;}
+  </style>
+  <style data-emotion="css 1uzhr1e-singleValue" data-s="">
+   .css-1uzhr1e-singleValue{grid-area:1/1/2/3;max-width:100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;color:hsl(0, 0%, 20%);margin-left:2px;margin-right:2px;box-sizing:border-box;display:block;}
+  </style>
+  <style data-emotion="css amejhk" data-s="">
+   .css-amejhk{visibility:visible;-webkit-flex:1 1 auto;-ms-flex:1 1 auto;flex:1 1 auto;display:inline-grid;grid-area:1/1/2/3;grid-template-columns:0 min-content;margin:2px;padding-bottom:2px;padding-top:2px;color:hsl(0, 0%, 20%);box-sizing:border-box;width:100%;}.css-amejhk:after{content:attr(data-value) " ";visibility:hidden;white-space:pre;grid-area:1/2;font:inherit;min-width:2px;border:0;margin:0;outline:0;padding:0;}
+  </style>
+  <style data-emotion="css 1wy0on6" data-s="">
+   .css-1wy0on6{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-align-self:stretch;-ms-flex-item-align:stretch;align-self:stretch;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;box-sizing:border-box;}
+  </style>
+  <style data-emotion="css 1xc3v61-indicatorContainer" data-s="">
+   .css-1xc3v61-indicatorContainer{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:color 150ms;transition:color 150ms;color:hsl(0, 0%, 80%);padding:8px;box-sizing:border-box;}.css-1xc3v61-indicatorContainer:hover{color:hsl(0, 0%, 60%);}
+  </style>
+  <style data-emotion="css 8mmkcg" data-s="">
+   .css-8mmkcg{display:inline-block;fill:currentColor;line-height:1;stroke:currentColor;stroke-width:0;}
+  </style>
+  <style data-emotion="css 1x0aq4f-container" data-s="">
+   .css-1x0aq4f-container{position:relative;box-sizing:border-box;-webkit-flex:1;-ms-flex:1;flex:1;-webkit-align-self:center;-ms-flex-item-align:center;align-self:center;}
+  </style>
+  <style data-emotion="css 7pg0cj-a11yText" data-s="">
+   .css-7pg0cj-a11yText{z-index:9999;border:0;clip:rect(1px, 1px, 1px, 1px);height:1px;width:1px;position:absolute;overflow:hidden;padding:0;white-space:nowrap;}
+  </style>
+  <style data-emotion="css aore7h-control" data-s="">
+   .css-aore7h-control{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;cursor:default;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-flex-wrap:wrap;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;min-height:38px;outline:none;position:relative;-webkit-transition:all 100ms;transition:all 100ms;background-color:#5bb165;border-color:hsl(0, 0%, 80%);border-radius:none;border-style:solid;border-width:1px;box-shadow:none;box-sizing:border-box;color:#fff;border:0px;font-size:0.875rem;padding:0 10px;}.css-aore7h-control:hover{box-shadow:none;}
+  </style>
+  <style data-emotion="css 1u8gwyq" data-s="">
+   .css-1u8gwyq{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:grid;-webkit-flex:1;-ms-flex:1;flex:1;-webkit-box-flex-wrap:wrap;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-overflow-scrolling:touch;position:relative;overflow:hidden;padding:2px 8px;box-sizing:border-box;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;}
+  </style>
+  <style data-emotion="css 1l0vn6h-singleValue" data-s="">
+   .css-1l0vn6h-singleValue{grid-area:1/1/2/3;max-width:100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;color:#fff;margin-left:2px;margin-right:2px;box-sizing:border-box;margin:0;}
+  </style>
+  <style data-emotion="css 1hac4vs-dummyInput" data-s="">
+   .css-1hac4vs-dummyInput{background:0;border:0;caret-color:transparent;font-size:inherit;grid-area:1/1/2/3;outline:0;padding:0;width:1px;color:transparent;left:-100px;opacity:0;position:relative;-webkit-transform:scale(.01);-moz-transform:scale(.01);-ms-transform:scale(.01);transform:scale(.01);}
+  </style>
+  <style data-emotion="css 1wy0on6" data-s="">
+   .css-1wy0on6{-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-align-self:stretch;-ms-flex-item-align:stretch;align-self:stretch;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;box-sizing:border-box;}
+  </style>
+  <style data-emotion="css yl5mvd-indicatorContainer" data-s="">
+   .css-yl5mvd-indicatorContainer{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-transition:color 150ms;transition:color 150ms;color:#fff;padding:8px;box-sizing:border-box;}.css-yl5mvd-indicatorContainer:hover{color:hsl(0, 0%, 60%);}
+  </style>
+  <style data-emotion="css 8mmkcg" data-s="">
+   .css-8mmkcg{display:inline-block;fill:currentColor;line-height:1;stroke:currentColor;stroke-width:0;}
+  </style>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width" name="viewport"/>
+  <title>
+   🎓 Wymień dzielniki liczby:- Zadanie Ćwiczenie 1: MATeMAtyka 1. Zakres podstawowy - strona 10
+  </title>
+  <meta content="🎓 a)Dzielniki liczby 12: 1,2,3,4,6,12b)Dzielniki liczby 28:1,2,4,7,14,28c)Dzielniki liczby 36:1,2,3,4 Odpowiedź na zadanie z MATeMAtyka 1. Zakres podstawowy" name="description"/>
+  <meta content="🎓 Wymień dzielniki liczby:- Zadanie Ćwiczenie 1: MATeMAtyka 1. Zakres podstawowy - strona 10" property="og:title"/>
+  <meta content="🎓 a)Dzielniki liczby 12: 1,2,3,4,6,12b)Dzielniki liczby 28:1,2,4,7,14,28c)Dzielniki liczby 36:1,2,3,4 Odpowiedź na zadanie z MATeMAtyka 1. Zakres podstawowy" property="og:description"/>
+  <meta content="/img/odrabiamyfb1024.jpg" property="og:image"/>
+  <meta content="article" property="og:type"/>
+  <meta content="summary" property="twitter:card"/>
+  <meta content="@odrabiamy" property="twitter:site"/>
+  <meta content="🎓 Wymień dzielniki liczby:- Zadanie Ćwiczenie 1: MATeMAtyka 1. Zakres podstawowy - strona 10" property="twitter:title"/>
+  <meta content="🎓 a)Dzielniki liczby 12: 1,2,3,4,6,12b)Dzielniki liczby 28:1,2,4,7,14,28c)Dzielniki liczby 36:1,2,3,4 Odpowiedź na zadanie z MATeMAtyka 1. Zakres podstawowy" property="twitter:description"/>
+  <meta content="/img/odrabiamyfb1024.jpg" property="twitter:image"/>
+  <meta content="2023-05-31T17:04:31+02:00" property="article:published_time"/>
+  <meta content="education" property="article:section"/>
+  <meta content="odrabiamy, 1 szkoły ponadpodstawowej, Matematyka, MATeMAtyka 1. Zakres podstawowy, strona 10, 2019, Nowa Era" property="keywords"/>
+  <meta charset="utf-8"/>
+  <meta content="https://odrabiamy.pl/matematyka/ksiazka-11867?page=1" property="og:url"/>
+  <link href="https://odrabiamy.pl/matematyka/ksiazka-11867?page=1" rel="canonical"/>
+  <script type="application/ld+json">
+   [{"@context":"https://schema.org","@type":"Question","dateCreated":"2023-05-31T17:04:31+02:00","name":"Wymień dzielniki liczby:","aggregateRating":{"@type":"AggregateRating","ratingValue":4,"bestRating":"5","worstRating":"1","ratingCount":1051}},{"@context":"https://schema.org/","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Matematyka","item":"https://odrabiamy.pl/matematyka"},{"@type":"ListItem","position":2,"name":"🎓MATeMAtyka 1. Zakres podstawowy","item":"https://odrabiamy.pl/matematyka/ksiazka-11867?page=1"}]}]
+  </script>
+  <meta content="width=device-width" name="viewport"/>
+  <meta content="18" name="next-head-count"/>
+  <link href="/icons/favicon.ico" rel="icon" sizes="any"/>
+  <link href="/icons/icon.svg" rel="icon" type="image/svg+xml"/>
+  <link href="/icons/apple-touch-icon.png" rel="apple-touch-icon"/>
+  <script>
+   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+          new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+          j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+          'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+          })(window,document,'script','dataLayer', 'GTM-KKMZR7');
+  </script>
+  <link crossorigin="anonymous" data-next-font="" href="/" rel="preconnect"/>
+  <link as="style" href="/_next/static/css/b896667776278200.css" rel="preload"/>
+  <link data-n-g="" href="/_next/static/css/b896667776278200.css" rel="stylesheet"/>
+  <link as="style" href="/_next/static/css/54863f739331243f.css" rel="preload"/>
+  <link data-n-p="" href="/_next/static/css/54863f739331243f.css" rel="stylesheet"/>
+  <noscript data-n-css="">
+  </noscript>
+  <script defer="" nomodule="" src="/_next/static/chunks/polyfills-78c92fac7aa8fdd8.js">
+  </script>
+  <script defer="" src="/_next/static/chunks/webpack-bebdf250a96b338c.js">
+  </script>
+  <script defer="" src="/_next/static/chunks/framework-9473a48b9cb62ce7.js">
+  </script>
+  <script defer="" src="/_next/static/chunks/main-5fb0f29d2be4135a.js">
+  </script>
+  <script defer="" src="/_next/static/chunks/pages/_app-0990fb214bab0a95.js">
+  </script>
+  <script defer="" src="/_next/static/chunks/800-69c6f3077cd88fb2.js">
+  </script>
+  <script defer="" src="/_next/static/chunks/739-cc1f76875c5e386e.js">
+  </script>
+  <script defer="" src="/_next/static/chunks/592-09bdbcc0d83dc241.js">
+  </script>
+  <script defer="" src="/_next/static/chunks/950-6f6321c88e30d7cc.js">
+  </script>
+  <script defer="" src="/_next/static/chunks/pages/%5BsubjectParam%5D/%5BbookParam%5D/%5B%5B...pageExerciseParam%5D%5D-a63712c8488b2ae4.js">
+  </script>
+  <script defer="" src="/_next/static/6df98371e0fdd8a23f7811ae694924868e750b22/_buildManifest.js">
+  </script>
+  <script defer="" src="/_next/static/6df98371e0fdd8a23f7811ae694924868e750b22/_ssgManifest.js">
+  </script>
+  <link as="script" href="/_next/static/chunks/962-bc25ab4860d4f180.js" rel="prefetch"/>
+  <link as="script" href="/_next/static/chunks/711-1050abb4e0159b83.js" rel="prefetch"/>
+  <link as="script" href="/_next/static/chunks/607-56aacc02c35591cc.js" rel="prefetch"/>
+  <link as="script" href="/_next/static/chunks/766-24f6f808ed7c4f9a.js" rel="prefetch"/>
+  <link as="script" href="/_next/static/chunks/114-48ffc6fd4ce57b7f.js" rel="prefetch"/>
+  <link as="script" href="/_next/static/chunks/167-8a3d996cf1cd2e07.js" rel="prefetch"/>
+  <link as="script" href="/_next/static/chunks/pages/moje-ee1df4b2f80722c8.js" rel="prefetch"/>
+  <link as="script" href="/_next/static/chunks/803-8fc7773b470ed5e5.js" rel="prefetch"/>
+  <link as="script" href="/_next/static/chunks/pages/tablica-f82ca017e27e607f.js" rel="prefetch"/>
+  <link as="script" href="/_next/static/chunks/pages/asystent-ai/%5B%5B...aiParams%5D%5D-00a5b9d474814c6e.js" rel="prefetch"/>
+  <link as="script" href="/_next/static/chunks/233-c4d6675806fabd7f.js" rel="prefetch"/>
+  <link as="script" href="/_next/static/chunks/pages/premium-97b46998dcd57403.js" rel="prefetch"/>
+  <link as="script" href="/_next/static/chunks/603-b928e010e4f6918f.js" rel="prefetch"/>
+  <link as="script" href="/_next/static/chunks/pages/auth/signin-37de817fc814e2ba.js" rel="prefetch"/>
+  <link as="script" href="/_next/static/chunks/pages/index-44673ba2d2720e27.js" rel="prefetch"/>
+  <script async="" src="https://connect.facebook.net/signals/config/662435311344634?v=2.9.156&amp;r=stable&amp;domain=odrabiamy.pl&amp;hme=c3a545c63044e8e9102d4f32d84a1137594d024f28e801d670bc76dc5c075575&amp;ex_m=67%2C112%2C99%2C103%2C58%2C3%2C93%2C66%2C15%2C91%2C84%2C49%2C51%2C158%2C161%2C172%2C168%2C169%2C171%2C28%2C94%2C50%2C73%2C170%2C153%2C156%2C165%2C166%2C173%2C121%2C14%2C48%2C178%2C177%2C123%2C17%2C33%2C38%2C1%2C41%2C62%2C63%2C64%2C68%2C88%2C16%2C13%2C90%2C87%2C86%2C100%2C102%2C37%2C101%2C29%2C25%2C154%2C157%2C130%2C27%2C10%2C11%2C12%2C5%2C6%2C24%2C21%2C22%2C54%2C59%2C61%2C71%2C95%2C26%2C72%2C8%2C7%2C76%2C46%2C20%2C97%2C96%2C9%2C19%2C18%2C81%2C53%2C79%2C32%2C70%2C0%2C89%2C31%2C78%2C83%2C45%2C44%2C82%2C36%2C4%2C85%2C77%2C42%2C39%2C34%2C80%2C2%2C35%2C60%2C40%2C98%2C43%2C75%2C65%2C104%2C57%2C56%2C30%2C92%2C55%2C52%2C47%2C74%2C69%2C23%2C105">
+  </script>
+ </head>
+ <body>
+  <span data-radix-focus-guard="" style="outline: none; opacity: 0; position: fixed; pointer-events: none;" tabindex="0">
+  </span>
+  <noscript>
+   <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-KKMZR7" style="display:none;visibility:hidden" width="0">
+   </iframe>
+  </noscript>
+  <div id="__next">
+   <div>
+    <div class="Toastify">
+    </div>
+    <div class="CookiesBanner_blur__x8k7K">
+     <div class="CookiesBanner_wrapper__FXmyc" data-testid="qa-cookies-content">
+      <div class="CookiesBanner_headingWrapper__D37KW">
+       <h2 class="Typography_margin__1oYQU Typography_h5__kIoZt">
+        Dbamy o Twoją prywatność
+       </h2>
+      </div>
+      <div class="CookiesBanner_textsWrapper__uLN3S">
+       <div style="position: relative; overflow: hidden; width: 100%; height: auto; min-height: 24px; max-height: 100%;">
+        <div class="" style="position: relative; overflow: scroll; margin-right: -17px; margin-bottom: -17px; min-height: 41px; max-height: calc(100% + 17px);">
+         <div class="CookiesBanner_texts__SzgaK">
+          <p class="Typography_margin__1oYQU Typography_body2__xr88K">
+           Jesteśmy Makalu Media Sp. z o.o. Sp.k. Stosujemy pliki cookies w celu zapewnienia prawidłowego funkcjonowania Serwisu oraz w celach analitycznych.
+          </p>
+          <p class="Typography_margin__1oYQU Typography_body2__xr88K">
+           Dowiedz się więcej w naszej Polityce cookies. Klikając przycisk „Akceptuję wszystkie pliki cookies”, wyrazisz zgodę na używanie analitycznych plików cookies na Twoim urządzeniu i związane z tym przetwarzanie danych osobowych.
+          </p>
+          <p class="Typography_margin__1oYQU Typography_body2__xr88K">
+           Jeżeli klikniesz przycisk „Odrzucam opcjonalne pliki cookies”, na Twoim urządzeniu zainstalujemy wyłącznie pliki cookies niezbędne do prawidłowego funkcjonowania Serwisu.
+          </p>
+         </div>
+        </div>
+        <div style="position: absolute; height: 6px; right: 2px; bottom: 2px; left: 2px; border-radius: 3px; visibility: hidden;">
+         <div style="position: relative; display: block; height: 100%; cursor: pointer; border-radius: inherit; background-color: rgba(0, 0, 0, 0.2); width: 0px;">
+         </div>
+        </div>
+        <div style="position: absolute; width: 6px; right: 2px; bottom: 2px; top: 2px; border-radius: 3px; visibility: hidden;">
+         <div style="position: relative; display: block; width: 100%; cursor: pointer; border-radius: inherit; background-color: rgba(0, 0, 0, 0.2); height: 0px;">
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="CookiesBanner_buttonsWrapper__lybPY">
+       <button class="Button_button__H7pnj Button_primary__36J7U Button_normal__OzyKl" data-testid="cookies-accept">
+        <span class="Button_children___ADUh">
+         Akceptuję wszystkie pliki cookies
+        </span>
+       </button>
+       <button class="Button_button__H7pnj Button_secondary__4N1v_ Button_normal__OzyKl" data-testid="cookies-decline">
+        <span class="Button_children___ADUh">
+         Odrzucam opcjonalne pliki cookies
+        </span>
+       </button>
+      </div>
+     </div>
+    </div>
+    <div class="Layout_wrapper__uEUkF">
+     <header class="MainHeader_header__UrtKV mui-fixed" data-testid="main-header">
+      <div class="MainHeader_container__RcX05">
+       <div class="MainHeader_logo__GJ93y">
+        <a aria-label="Strona główna" class="MainHeader_logoChild__uvAnS" href="/">
+         <img alt="Logotyp strony głównej odrabiamy.pl - odrabiamy zadania razem" class="OdrabiamyLogo_logo__1BmWk" id="qa-header-logo" src="/images-next/logos/odrabiamy-logo.svg"/>
+        </a>
+       </div>
+       <nav class="MainHeader_nav__sqdMA mui-fixed">
+        <ul aria-orientation="horizontal" class="TabList_tabList__W_49k TabList_animate__3wulh TabList_horizontal__WRk57 TabList_indicatorBottom__DlQ53 MainNav_mainNav__xhYe3" id="qa-header-nav" role="tablist" style="--indicator-transform: translate3d(21px, 0, 0);" tabindex="0">
+         <li aria-disabled="false" aria-selected="true" class="TabList_tab__S8VTT" id="qa-header-nav--books" role="tab" tabindex="0">
+          <a class="MainNav_navLinkActive__uZzkZ MainNav_navLink__EL86h qa-books-tab" href="/moje">
+           <div class="MainNav_navLinkIconWrapper__gQUuF">
+            <div class="MainNav_navLinkIcon__u1h31">
+             <svg height="24" width="24">
+              <use href="/_next/static/media/sprite.31fb17cb.svg#books">
+              </use>
+             </svg>
+            </div>
+           </div>
+           <div class="Typography_margin__1oYQU Typography_label__96qQ6 Typography_inherit-color__49B7q">
+            Książki
+           </div>
+          </a>
+         </li>
+         <li aria-disabled="false" aria-selected="false" class="TabList_tab__S8VTT" id="qa-header-nav--courses" role="tab" tabindex="0">
+          <a aria-controls="radix-:R16fm:" aria-expanded="true" aria-haspopup="dialog" class="MainNav_navLink__EL86h" data-state="open" href="/kursy" type="button">
+           <div class="MainNav_navLinkIconWrapper__gQUuF">
+            <div class="MainNav_navLinkIcon__u1h31">
+             <svg height="20" width="22">
+              <use href="/_next/static/media/sprite.31fb17cb.svg#courses">
+              </use>
+             </svg>
+            </div>
+           </div>
+           <div class="Typography_margin__1oYQU Typography_label__96qQ6 Typography_inherit-color__49B7q">
+            Kursy
+           </div>
+          </a>
+         </li>
+         <li aria-disabled="false" aria-selected="false" class="TabList_tab__S8VTT" id="qa-header-nav--qa" role="tab" tabindex="0">
+          <a class="MainNav_navLink__EL86h qa-qa-tab" href="/tablica">
+           <div class="MainNav_navLinkIconWrapper__gQUuF">
+            <div class="MainNav_navLinkIcon__u1h31">
+             <svg height="24" width="24">
+              <use href="/_next/static/media/sprite.31fb17cb.svg#qa">
+              </use>
+             </svg>
+            </div>
+           </div>
+           <div class="Typography_margin__1oYQU Typography_label__96qQ6 Typography_inherit-color__49B7q">
+            Tablica
+           </div>
+          </a>
+         </li>
+         <li aria-disabled="false" aria-selected="false" class="TabList_tab__S8VTT" id="qa-header-nav--ai" role="tab" tabindex="0">
+          <a class="MainNav_navLink__EL86h ai-tab" href="/asystent-ai">
+           <div class="MainNav_navLinkIconWrapper__gQUuF">
+            <div class="MainNav_navLinkIcon__u1h31">
+             <svg height="24" width="24">
+              <use href="/_next/static/media/sprite.31fb17cb.svg#robot-face">
+              </use>
+             </svg>
+            </div>
+           </div>
+           <div class="Typography_margin__1oYQU Typography_label__96qQ6 Typography_inherit-color__49B7q">
+            AI
+           </div>
+          </a>
+         </li>
+         <li aria-disabled="false" aria-selected="false" class="TabList_tab__S8VTT" id="qa-header-nav--premium" role="tab" tabindex="0">
+          <a class="MainNav_navLink__EL86h qa-premium-tab" href="/premium">
+           <div class="MainNav_navLinkIconWrapper__gQUuF">
+            <div class="MainNav_navLinkIcon__u1h31">
+             <svg height="25" width="24">
+              <use href="/_next/static/media/sprite.31fb17cb.svg#premium">
+              </use>
+             </svg>
+            </div>
+           </div>
+           <div class="Typography_margin__1oYQU Typography_label__96qQ6 Typography_inherit-color__49B7q">
+            Premium
+           </div>
+          </a>
+         </li>
+        </ul>
+        <div class="MainHeader_auth__1vODz">
+         <div class="MainHeader_authItem__QZTcz">
+          <a class="Button_button__H7pnj Button_secondary__4N1v_ Button_small__y1tTn MainHeaderSignUpButton_signUp__mAZ5U" data-testid="register-button-header" href="/auth/signin?callbackUrl=https%3A%2F%2Fodrabiamy.pl%2Fmatematyka%2Fksiazka-11867&amp;signUp=true">
+           Zarejestruj
+          </a>
+         </div>
+         <div class="MainHeader_authItem__QZTcz">
+          <a class="Button_button__H7pnj Button_primary__36J7U Button_small__y1tTn SignInButton_signIn__Rorci MainHeaderSignInButton_signIn__7NQ2P" data-testid="login-button" href="/auth/signin">
+           <div class="SignInButton_label__GNRfL" title="Zaloguj">
+            Zaloguj
+           </div>
+           <div class="SignInButton_signInIconWrapper__vXRbU">
+            <div class="SignInButton_signInIcon__41Esf">
+             <svg height="20" width="20">
+              <use href="/_next/static/media/sprite.31fb17cb.svg#signin">
+              </use>
+             </svg>
+            </div>
+           </div>
+          </a>
+         </div>
+        </div>
+       </nav>
+      </div>
+     </header>
+     <main class="Layout_main__HTmdr">
+      <dialog class="Modal_modal__IVJYd" data-testid="screenshot-modal" style="--desktop-max-width:480px">
+       <div class="Modal_modalContent__4FHKp">
+        <button class="Modal_closeButton__drOA2" data-testid="close-x-button">
+         <span class="Button_children___ADUh">
+          <svg height="14" width="14">
+           <use href="/_next/static/media/sprite.31fb17cb.svg#close">
+           </use>
+          </svg>
+         </span>
+        </button>
+        <p class="Typography_margin__1oYQU Typography_h5__kIoZt Modal_heading__ZrV1S" data-testid="title">
+         Wykryliśmy zakazane utrwalanie treści
+        </p>
+        <div class="Modal_imageWrapper__AF0xx">
+         <img alt="" data-nimg="1" data-testid="image" decoding="async" height="241" loading="lazy" src="/_next/image?url=%2Fimages-next%2Fno-can-dos.png&amp;w=384&amp;q=75" srcset="/_next/image?url=%2Fimages-next%2Fno-can-dos.png&amp;w=256&amp;q=75 1x, /_next/image?url=%2Fimages-next%2Fno-can-dos.png&amp;w=384&amp;q=75 2x" style="color:transparent" width="170"/>
+        </div>
+        <p class="Typography_margin__1oYQU Typography_body1__g3wiF text Modal_center__i46Xa" data-testid="item-text">
+         Na Twoim koncie zarejestrowaliśmy wykonywanie zrzutów ekranu. Pamiętaj, że treści w serwisie Odrabiamy są objęte prawem autorskim i ich
+         <strong>
+          utrwalanie i rozpowszechnianie jest niezgodne z regulaminem.
+         </strong>
+        </p>
+        <p class="Typography_margin__1oYQU Typography_body1__g3wiF text Modal_center__i46Xa" data-testid="item-text">
+         Dalsze nieprzestrzeganie regulaminu może prowadzić do
+         <strong>
+          czasowej lub trwałej blokady konta, a nawet nieść za sobą konsekwencje prawne.
+         </strong>
+        </p>
+        <p class="Typography_margin__1oYQU Typography_body1__g3wiF text Modal_center__i46Xa" data-testid="item-text">
+         <strong>
+          Przestrzegaj regulaminu, nie rejestruj treści!
+         </strong>
+        </p>
+        <div class="Modal_buttons__qNvNJ">
+         <button class="Button_button__H7pnj Button_primary__36J7U Button_normal__OzyKl Modal_button__j3Ws5" data-testid="close-button" title="Zamknij">
+          <span class="Button_children___ADUh">
+           Rozumiem
+          </span>
+         </button>
+        </div>
+       </div>
+      </dialog>
+      <div class="BookPage_bookPage__N0DfH">
+       <div class="BookPage_mainContent__7EoA_">
+        <div class="ExerciseCard_exercise__LvrI7" data-testid="exercise">
+         <div class="BooksNavigation_booksNavigation__SQLxG">
+          <div class="ElementWithLabel_element__Sgox5 BooksNav_gradeSelect__XXPga">
+           <div class="Label_label__AhTJS Label_left__jka5Y">
+            Klasa
+           </div>
+           <div class="css-fyq6mk-container" id="qa-navigation-grade">
+            <span class="css-7pg0cj-a11yText" id="react-select-react-select-component-live-region">
+            </span>
+            <span aria-atomic="false" aria-live="polite" aria-relevant="additions text" class="css-7pg0cj-a11yText" role="log">
+            </span>
+            <div class="css-nky6oq-control">
+             <div class="css-1u8gwyq">
+              <div class="css-1uzhr1e-singleValue">
+               1 szkoły ponadpodstawowej
+              </div>
+              <input aria-activedescendant="" aria-autocomplete="list" aria-expanded="false" aria-haspopup="true" aria-readonly="true" class="css-1hac4vs-dummyInput" id="react-select-react-select-component-input" inputmode="none" role="combobox" tabindex="0" value=""/>
+             </div>
+             <div class="css-1wy0on6">
+              <span class="css-0">
+              </span>
+              <div aria-hidden="true" class="css-1xc3v61-indicatorContainer">
+               <svg aria-hidden="true" class="css-8mmkcg" focusable="false" height="20" viewbox="0 0 20 20" width="20">
+                <path d="M4.516 7.548c0.436-0.446 1.043-0.481 1.576 0l3.908 3.747 3.908-3.747c0.533-0.481 1.141-0.446 1.574 0 0.436 0.445 0.408 1.197 0 1.615-0.406 0.418-4.695 4.502-4.695 4.502-0.217 0.223-0.502 0.335-0.787 0.335s-0.57-0.112-0.789-0.335c0 0-4.287-4.084-4.695-4.502s-0.436-1.17 0-1.615z">
+                </path>
+               </svg>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="ElementWithLabel_element__Sgox5 BooksNav_subjectSelect__Ipml4">
+           <div class="Label_label__AhTJS">
+            Przedmiot
+           </div>
+           <div class="css-fyq6mk-container" id="qa-navigation-subject">
+            <span class="css-7pg0cj-a11yText" id="react-select-react-select-component-live-region">
+            </span>
+            <span aria-atomic="false" aria-live="polite" aria-relevant="additions text" class="css-7pg0cj-a11yText" role="log">
+            </span>
+            <div class="css-nky6oq-control">
+             <div class="css-1u8gwyq">
+              <div class="css-1uzhr1e-singleValue">
+               Matematyka
+              </div>
+              <input aria-activedescendant="" aria-autocomplete="list" aria-expanded="false" aria-haspopup="true" aria-readonly="true" class="css-1hac4vs-dummyInput" id="react-select-react-select-component-input" inputmode="none" role="combobox" tabindex="0" value=""/>
+             </div>
+             <div class="css-1wy0on6">
+              <span class="css-0">
+              </span>
+              <div aria-hidden="true" class="css-1xc3v61-indicatorContainer">
+               <svg aria-hidden="true" class="css-8mmkcg" focusable="false" height="20" viewbox="0 0 20 20" width="20">
+                <path d="M4.516 7.548c0.436-0.446 1.043-0.481 1.576 0l3.908 3.747 3.908-3.747c0.533-0.481 1.141-0.446 1.574 0 0.436 0.445 0.408 1.197 0 1.615-0.406 0.418-4.695 4.502-4.695 4.502-0.217 0.223-0.502 0.335-0.787 0.335s-0.57-0.112-0.789-0.335c0 0-4.287-4.084-4.695-4.502s-0.436-1.17 0-1.615z">
+                </path>
+               </svg>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="ElementWithLabel_element__Sgox5 BooksNav_bookSelect__c2Y2X">
+           <div class="Label_label__AhTJS Label_right__Z7sXO">
+            Wybierz książkę
+           </div>
+           <div class="css-fyq6mk-container" id="qa-navigation-book">
+            <span class="css-7pg0cj-a11yText" id="react-select-react-select-component-live-region">
+            </span>
+            <span aria-atomic="false" aria-live="polite" aria-relevant="additions text" class="css-7pg0cj-a11yText" role="log">
+            </span>
+            <div class="css-nky6oq-control">
+             <div class="css-1u8gwyq">
+              <div class="css-1uzhr1e-singleValue">
+               MATeMAtyka 1. Zakres podstawowy, Podręcznik
+              </div>
+              <div class="css-amejhk" data-value="">
+               <input aria-activedescendant="" aria-autocomplete="list" aria-expanded="false" aria-haspopup="true" autocapitalize="none" autocomplete="off" autocorrect="off" class="" id="react-select-react-select-component-input" role="combobox" spellcheck="false" style="label:input;color:inherit;background:0;opacity:1;width:100%;grid-area:1 / 2;font:inherit;min-width:2px;border:0;margin:0;outline:0;padding:0" tabindex="0" type="text" value=""/>
+              </div>
+             </div>
+             <div class="css-1wy0on6">
+              <span class="css-0">
+              </span>
+              <div aria-hidden="true" class="css-1xc3v61-indicatorContainer">
+               <svg aria-hidden="true" class="css-8mmkcg" focusable="false" height="20" viewbox="0 0 20 20" width="20">
+                <path d="M4.516 7.548c0.436-0.446 1.043-0.481 1.576 0l3.908 3.747 3.908-3.747c0.533-0.481 1.141-0.446 1.574 0 0.436 0.445 0.408 1.197 0 1.615-0.406 0.418-4.695 4.502-4.695 4.502-0.217 0.223-0.502 0.335-0.787 0.335s-0.57-0.112-0.789-0.335c0 0-4.287-4.084-4.695-4.502s-0.436-1.17 0-1.615z">
+                </path>
+               </svg>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="PageNav_pageNav__xuEhm">
+           <div class="PageNav_back__5gsx_">
+            <span aria-label="Go To Previous Page" id="qa-previous-page">
+             <svg height="1.2em" width="1.2em">
+              <use href="/_next/static/media/sprite.31fb17cb.svg#chevron-left">
+              </use>
+             </svg>
+            </span>
+           </div>
+           <div class="PageNav_pageSelect__ej_Su" data-testid="page-select-open">
+            <div class="css-1x0aq4f-container">
+             <span class="css-7pg0cj-a11yText" id="react-select-page-navigation-select-live-region">
+             </span>
+             <span aria-atomic="false" aria-live="polite" aria-relevant="additions text" class="css-7pg0cj-a11yText" role="log">
+             </span>
+             <div class="css-aore7h-control">
+              <div class="css-1u8gwyq">
+               <div class="css-1l0vn6h-singleValue">
+                Strona 10
+               </div>
+               <input aria-activedescendant="" aria-autocomplete="list" aria-expanded="false" aria-haspopup="true" aria-readonly="true" class="css-1hac4vs-dummyInput" id="react-select-page-navigation-select-input" inputmode="none" role="combobox" tabindex="0" value=""/>
+              </div>
+              <div class="css-1wy0on6">
+               <span class="css-0">
+               </span>
+               <div aria-hidden="true" class="css-yl5mvd-indicatorContainer">
+                <svg aria-hidden="true" class="css-8mmkcg" focusable="false" height="20" viewbox="0 0 20 20" width="20">
+                 <path d="M4.516 7.548c0.436-0.446 1.043-0.481 1.576 0l3.908 3.747 3.908-3.747c0.533-0.481 1.141-0.446 1.574 0 0.436 0.445 0.408 1.197 0 1.615-0.406 0.418-4.695 4.502-4.695 4.502-0.217 0.223-0.502 0.335-0.787 0.335s-0.57-0.112-0.789-0.335c0 0-4.287-4.084-4.695-4.502s-0.436-1.17 0-1.615z">
+                 </path>
+                </svg>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="PageNav_forward__JjmB1">
+            <a aria-label="Go To Next Page" data-testid="next-page" href="/matematyka/ksiazka-11867/strona-11">
+             <svg height="1.2em" width="1.2em">
+              <use href="/_next/static/media/sprite.31fb17cb.svg#chevron-right">
+              </use>
+             </svg>
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="ExerciseCard_main__lGCgC">
+          <div class="Chip_chipsWrapper__V0vhr" id="qa-exercise-navigation">
+           <div class="ExerciseNav_exerciseNavItem__vV0my">
+            <a class="Chip_chip__WbCj7 Chip_chipSelected__2V_KR" data-testid="qa-exercise-selected" href="/matematyka/ksiazka-11867/strona-10/zadanie-615468" id="qa-exercise-no-Ćwiczenie 1">
+             <div class="Typography_margin__1oYQU Typography_body2__xr88K Typography_inherit-color__49B7q Chip_value__zvNDH">
+              Ćwiczenie 1
+             </div>
+            </a>
+           </div>
+          </div>
+          <div class="Content_content__Ez17W">
+           <h2 class="Typography_margin__1oYQU Typography_h4__QRscg Content_header__jwOMQ" data-testid="number">
+            Ćwiczenie 1
+            <span>
+            </span>
+           </h2>
+           <div class="SolutionsWrapper_solutionsWrapper__2asms">
+            <div class="SolutionContent_solutionContent__QfGWO" data-testid="solution">
+             <div class="SolutionContent_headerWrapper__CvRKl">
+              <p class="Typography_margin__1oYQU Typography_h5__kIoZt" data-testid="header">
+               Rozwiązanie
+              </p>
+             </div>
+             <div role="presentation">
+              <div class="ContentDisplayer_container__7512t" data-testid="content-displayer">
+               <div class="HtmlDisplay_htmlDisplay__YwxRb ContentDisplayer_contentDisplayer__GF_te" data-testid="content">
+                <p>
+                 <strong>
+                  a)
+                 </strong>
+                </p>
+                <p>
+                 Dzielniki liczby
+                 <strong>
+                  12
+                 </strong>
+                 :
+                </p>
+                <p>
+                 <span class="katex">
+                  <span aria-hidden="true" class="katex-html">
+                   <span class="base">
+                    <span class="strut" style="height:0.8389em;vertical-align:-0.1944em;">
+                    </span>
+                    <span class="mord">
+                     1
+                    </span>
+                    <span class="mord">
+                     <span class="mpunct">
+                      ,
+                     </span>
+                    </span>
+                    <span class="mspace" style="margin-right:0.2778em;">
+                    </span>
+                    <span class="mord">
+                     2
+                    </span>
+                    <span class="mord">
+                     <span class="mpunct">
+                      ,
+                     </span>
+                    </span>
+                    <span class="mspace" style="margin-right:0.2778em;">
+                    </span>
+                    <span class="mord">
+                     3
+                    </span>
+                    <span class="mord">
+                     <span class="mpunct">
+                      ,
+                     </span>
+                    </span>
+                    <span class="mspace" style="margin-right:0.2778em;">
+                    </span>
+                    <span class="mord">
+                     4
+                    </span>
+                    <span class="mord">
+                     <span class="mpunct">
+                      ,
+                     </span>
+                    </span>
+                    <span class="mspace" style="margin-right:0.2778em;">
+                    </span>
+                    <span class="mord">
+                     6
+                    </span>
+                    <span class="mord">
+                     <span class="mpunct">
+                      ,
+                     </span>
+                    </span>
+                    <span class="mspace" style="margin-right:0.2778em;">
+                    </span>
+                    <span class="mord">
+                     12
+                    </span>
+                   </span>
+                  </span>
+                 </span>
+                </p>
+                <hr/>
+                <p>
+                 <strong>
+                  b)
+                 </strong>
+                </p>
+                <p>
+                 Dzielniki liczby
+                 <strong>
+                  28
+                 </strong>
+                 :
+                </p>
+                <p>
+                 <span class="katex">
+                  <span aria-hidden="true" class="katex-html">
+                   <span class="base">
+                    <span class="strut" style="height:0.8389em;vertical-align:-0.1944em;">
+                    </span>
+                    <span class="mord">
+                     1
+                    </span>
+                    <span class="mord">
+                     <span class="mpunct">
+                      ,
+                     </span>
+                    </span>
+                    <span class="mspace" style="margin-right:0.2778em;">
+                    </span>
+                    <span class="mord">
+                     2
+                    </span>
+                    <span class="mord">
+                     <span class="mpunct">
+                      ,
+                     </span>
+                    </span>
+                    <span class="mspace" style="margin-right:0.2778em;">
+                    </span>
+                    <span class="mord">
+                     4
+                    </span>
+                    <span class="mord">
+                     <span class="mpunct">
+                      ,
+                     </span>
+                    </span>
+                    <span class="mspace" style="margin-right:0.2778em;">
+                    </span>
+                    <span class="mord">
+                     7
+                    </span>
+                    <span class="mord">
+                     <span class="mpunct">
+                      ,
+                     </span>
+                    </span>
+                    <span class="mspace" style="margin-right:0.2778em;">
+                    </span>
+                    <span class="mord">
+                     14
+                    </span>
+                    <span class="mord">
+                     <span class="mpunct">
+                      ,
+                     </span>
+                    </span>
+                    <span class="mspace" style="margin-right:0.2778em;">
+                    </span>
+                    <span class="mord">
+                     28
+                    </span>
+                   </span>
+                  </span>
+                 </span>
+                </p>
+                <hr/>
+                <p>
+                 <strong>
+                  c)
+                 </strong>
+                </p>
+                <p>
+                 Dzielniki liczby
+                 <strong>
+                  36
+                 </strong>
+                 :
+                </p>
+                <p>
+                 <span class="katex">
+                  <span aria-hidden="true" class="katex-html">
+                   <span class="base">
+                    <span class="strut" style="height:0.8389em;vertical-align:-0.1944em;">
+                    </span>
+                    <span class="mord">
+                     1
+                    </span>
+                    <span class="mord">
+                     <span class="mpunct">
+                      ,
+                     </span>
+                    </span>
+                    <span class="mspace" style="margin-right:0.2778em;">
+                    </span>
+                    <span class="mord">
+                     2
+                    </span>
+                    <span class="mord">
+                     <span class="mpunct">
+                      ,
+                     </span>
+                    </span>
+                    <span class="mspace" style="margin-right:0.2778em;">
+                    </span>
+                    <span class="mord">
+                     3
+                    </span>
+                    <span class="mord">
+                     <span class="mpunct">
+                      ,
+                     </span>
+                    </span>
+                    <span class="mspace" style="margin-right:0.2778em;">
+                    </span>
+                    <span class="mord">
+                     4
+                    </span>
+                    <span class="mord">
+                     <span class="mpunct">
+                      ,
+                     </span>
+                    </span>
+                    <span class="mspace" style="margin-right:0.2778em;">
+                    </span>
+                    <span class="mord">
+                     6
+                    </span>
+                    <span class="mord">
+                     <span class="mpunct">
+                      ,
+                     </span>
+                    </span>
+                    <span class="mspace" style="margin-right:0.2778em;">
+                    </span>
+                    <span class="mord">
+                     9
+                    </span>
+                    <span class="mord">
+                     <span class="mpunct">
+                      ,
+                     </span>
+                    </span>
+                    <span class="mspace" style="margin-right:0.2778em;">
+                    </span>
+                    <span class="mord">
+                     12
+                    </span>
+                    <span class="mord">
+                     <span class="mpunct">
+                      ,
+                     </span>
+                    </span>
+                    <span class="mspace" style="margin-right:0.2778em;">
+                    </span>
+                    <span class="mord">
+                     18
+                    </span>
+                    <span class="mord">
+                     <span class="mpunct">
+                      ,
+                     </span>
+                    </span>
+                    <span class="mspace" style="margin-right:0.2778em;">
+                    </span>
+                    <span class="mord">
+                     36
+                    </span>
+                   </span>
+                  </span>
+                 </span>
+                </p>
+                <hr/>
+                <p>
+                 <strong>
+                  d)
+                 </strong>
+                </p>
+                <p>
+                 Dzielniki liczby
+                 <strong>
+                  48
+                 </strong>
+                 :
+                </p>
+                <p>
+                 <span class="katex">
+                  <span aria-hidden="true" class="katex-html">
+                   <span class="base">
+                    <span class="strut" style="height:0.8389em;vertical-align:-0.1944em;">
+                    </span>
+                    <span class="mord">
+                     1
+                    </span>
+                    <span class="mord">
+                     <span class="mpunct">
+                      ,
+                     </span>
+                    </span>
+                    <span class="mspace" style="margin-right:0.2778em;">
+                    </span>
+                    <span class="mord">
+                     2
+                    </span>
+                    <span class="mord">
+                     <span class="mpunct">
+                      ,
+                     </span>
+                    </span>
+                    <span class="mspace" style="margin-right:0.2778em;">
+                    </span>
+                    <span class="mord">
+                     3
+                    </span>
+                    <span class="mord">
+                     <span class="mpunct">
+                      ,
+                     </span>
+                    </span>
+                    <span class="mspace" style="margin-right:0.2778em;">
+                    </span>
+                    <span class="mord">
+                     4
+                    </span>
+                    <span class="mord">
+                     <span class="mpunct">
+                      ,
+                     </span>
+                    </span>
+                    <span class="mspace" style="margin-right:0.2778em;">
+                    </span>
+                    <span class="mord">
+                     6
+                    </span>
+                    <span class="mspace" style="margin-right:0.2778em;">
+                    </span>
+                    <span class="mord">
+                     8
+                    </span>
+                    <span class="mord">
+                     <span class="mpunct">
+                      ,
+                     </span>
+                    </span>
+                    <span class="mspace" style="margin-right:0.2778em;">
+                    </span>
+                    <span class="mord">
+                     12
+                    </span>
+                    <span class="mord">
+                     <span class="mpunct">
+                      ,
+                     </span>
+                    </span>
+                    <span class="mspace" style="margin-right:0.2778em;">
+                    </span>
+                    <span class="mord">
+                     16
+                    </span>
+                    <span class="mord">
+                     <span class="mpunct">
+                      ,
+                     </span>
+                    </span>
+                    <span class="mspace" style="margin-right:0.2778em;">
+                    </span>
+                    <span class="mord">
+                     24
+                    </span>
+                    <span class="mord">
+                     <span class="mpunct">
+                      ,
+                     </span>
+                    </span>
+                    <span class="mspace" style="margin-right:0.2778em;">
+                    </span>
+                    <span class="mord">
+                     48
+                    </span>
+                   </span>
+                  </span>
+                 </span>
+                </p>
+               </div>
+              </div>
+             </div>
+             <dialog class="Modal_modal__IVJYd" data-testid="modal" style="--desktop-max-width:fit-content">
+              <div class="Modal_modalContent__4FHKp Modal_itemsCenter__ySO0v ImageModal_imageModal__fw13H">
+               <button class="Modal_closeButton__drOA2" data-testid="close-x-button">
+                <span class="Button_children___ADUh">
+                 <svg height="14" width="14">
+                  <use href="/_next/static/media/sprite.31fb17cb.svg#close">
+                  </use>
+                 </svg>
+                </span>
+               </button>
+               <div class="ImageModal_imageWrapper__DiThT">
+               </div>
+              </div>
+             </dialog>
+            </div>
+            <div class="SolutionVote_solutionVote__tvRyL" data-testid="solution-vote">
+             <p class="Typography_margin__1oYQU Typography_body2__xr88K SolutionVote_title__NTRGF" data-testid="title">
+              Czy to rozwiązanie było pomocne?
+             </p>
+             <div class="SolutionVote_interactions__BxsQT">
+              <div class="SolutionVote_vote__58jru SolutionVote_primary__rD0Co">
+               <button aria-label="Tak" class="SolutionVote_voteIconWrapper__q2wEE" data-testid="upvote-icon">
+                <svg height="24" width="24">
+                 <use href="/_next/static/media/sprite.31fb17cb.svg#thumb-up-empty">
+                 </use>
+                </svg>
+               </button>
+               <p class="Typography_margin__1oYQU Typography_caption-semibold__doVyh Typography_inherit-color__49B7q" data-testid="upvote-count">
+                848
+               </p>
+              </div>
+              <div class="SolutionVote_voteSeparator__iQ8E7">
+              </div>
+              <div class="SolutionVote_vote__58jru SolutionVote_ghost__bzzlK">
+               <button aria-label="Nie" class="SolutionVote_voteIconWrapper__q2wEE SolutionVote_inverted__Mb_w1" data-testid="downvote-icon">
+                <svg height="24" width="24">
+                 <use href="/_next/static/media/sprite.31fb17cb.svg#thumb-up-empty">
+                 </use>
+                </svg>
+               </button>
+              </div>
+             </div>
+             <dialog class="Modal_modal__IVJYd" data-testid="downvote-modal" style="--desktop-max-width:480px">
+              <div class="Modal_modalContent__4FHKp">
+               <button class="Modal_closeButton__drOA2" data-testid="close-x-button">
+                <span class="Button_children___ADUh">
+                 <svg height="14" width="14">
+                  <use href="/_next/static/media/sprite.31fb17cb.svg#close">
+                  </use>
+                 </svg>
+                </span>
+               </button>
+               <div>
+                <p class="Typography_margin__1oYQU Typography_h5__kIoZt Modal_heading__ZrV1S" data-testid="heading">
+                 Wybierz powód Twojej opinii
+                </p>
+                <p class="Typography_margin__1oYQU Typography_body2__xr88K DownvoteModal_description__qtG_N" data-testid="description">
+                 Możesz wybrać kilka odpowiedzi.
+                </p>
+               </div>
+               <div style="position:relative;overflow:hidden;width:100%;height:auto;min-height:24px;max-height:100%">
+                <div class="Modal_scrollbarView__c4r0M" style="position: relative; overflow: scroll; margin-right: -17px; margin-bottom: -17px; min-height: 41px; max-height: calc(100% + 17px);">
+                 <div class="DownvoteModal_scrollbars__tbt2D">
+                  <button aria-label="nie rozumiem rozwiązania" class="DownvoteModal_reason__TmEo9" data-testid="reason">
+                   <p class="Typography_margin__1oYQU Typography_subtitle2__iAemq">
+                    nie rozumiem rozwiązania
+                   </p>
+                   <span class="DownvoteModal_iconWrapper__MFmeE">
+                   </span>
+                  </button>
+                  <button aria-label="błąd lub literówka w rozwiązaniu" class="DownvoteModal_reason__TmEo9" data-testid="reason">
+                   <p class="Typography_margin__1oYQU Typography_subtitle2__iAemq">
+                    błąd lub literówka w rozwiązaniu
+                   </p>
+                   <span class="DownvoteModal_iconWrapper__MFmeE">
+                   </span>
+                  </button>
+                  <button aria-label="prezentowane rozwiązanie nie dotyczy mojej osoby lub mojego otoczenia (regionu / miasta)" class="DownvoteModal_reason__TmEo9" data-testid="reason">
+                   <p class="Typography_margin__1oYQU Typography_subtitle2__iAemq">
+                    prezentowane rozwiązanie nie dotyczy mojej osoby lub mojego otoczenia (regionu / miasta)
+                   </p>
+                   <span class="DownvoteModal_iconWrapper__MFmeE">
+                   </span>
+                  </button>
+                  <button aria-label="rozwiązanie nie wyświetla się poprawnie" class="DownvoteModal_reason__TmEo9" data-testid="reason">
+                   <p class="Typography_margin__1oYQU Typography_subtitle2__iAemq">
+                    rozwiązanie nie wyświetla się poprawnie
+                   </p>
+                   <span class="DownvoteModal_iconWrapper__MFmeE">
+                   </span>
+                  </button>
+                  <button aria-label="prezentowane zadanie nie pochodzi z tej książki lub błędna numeracja" class="DownvoteModal_reason__TmEo9" data-testid="reason">
+                   <p class="Typography_margin__1oYQU Typography_subtitle2__iAemq">
+                    prezentowane zadanie nie pochodzi z tej książki lub błędna numeracja
+                   </p>
+                   <span class="DownvoteModal_iconWrapper__MFmeE">
+                   </span>
+                  </button>
+                 </div>
+                </div>
+                <div style="position: absolute; height: 6px; right: 2px; bottom: 2px; left: 2px; border-radius: 3px; visibility: hidden;">
+                 <div style="position:relative;display:block;height:100%;cursor:pointer;border-radius:inherit;background-color:rgba(0,0,0,.2)">
+                 </div>
+                </div>
+                <div style="position: absolute; width: 6px; right: 2px; bottom: 2px; top: 2px; border-radius: 3px; visibility: hidden;">
+                 <div style="position:relative;display:block;width:100%;cursor:pointer;border-radius:inherit;background-color:rgba(0,0,0,.2)">
+                 </div>
+                </div>
+               </div>
+               <div class="Modal_buttons__qNvNJ">
+                <button aria-label="Wyślij opinię" class="Button_button__H7pnj Button_primary__36J7U Button_normal__OzyKl Modal_button__j3Ws5" data-testid="send-button" disabled="">
+                 <span class="Button_children___ADUh">
+                  Wyślij opinię
+                 </span>
+                </button>
+               </div>
+              </div>
+             </dialog>
+            </div>
+            <div class="Card_card__PnT4F SolutionAuthorCard_solutionAuthorCard__604so" data-testid="solution-author-card">
+             <div class="SolutionAuthorCard_author__Vt4Ye">
+              <img alt="Avatar" class="Avatar_Avatar__Dacog" data-testid="avatar" height="52" loading="lazy" src="https://prod.odrabiamy-assets.pl/uploads/author/avatar/61/image__1_.jpg" width="52"/>
+              <div class="SolutionAuthorCard_authorInfo__JsvpP">
+               <p class="Typography_margin__1oYQU Typography_h6__XSsmk" data-testid="name">
+                Magda
+               </p>
+               <p class="Typography_margin__1oYQU Typography_body2__xr88K Typography_inherit-color__49B7q" data-testid="title">
+                Nauczycielka
+                <!-- -->
+                <!-- -->
+                matematyki
+               </p>
+              </div>
+             </div>
+             <div aria-controls="accordion-details-author-61" aria-expanded="false" aria-label="Rozwiń profil autora" class="LegacyAccordion_button__bAgMU SolutionAuthorCard_chevron___qDvW" data-testid="accordion-button" id="button-author-61" role="button" tabindex="0">
+              <svg class="LegacyAccordion_icon__wFu_I" height="12px" width="12px">
+               <use href="/_next/static/media/sprite.31fb17cb.svg#chevron">
+               </use>
+              </svg>
+             </div>
+             <div class="SolutionAuthorCard_interactions___AgzT">
+              <div class="SolutionAuthorCard_interactionsLikeCount__XFDpK">
+               <button aria-label="Podziękuj autorowi" class="SolutionAuthorCard_interactionsLike___VDxK">
+                <svg data-testid="thanks-author" height="20" width="20">
+                 <use href="/_next/static/media/sprite.31fb17cb.svg#heart-empty">
+                 </use>
+                </svg>
+               </button>
+               <p class="Typography_margin__1oYQU Typography_caption-regular__n2aYA Typography_inherit-color__49B7q" data-testid="thanks-count">
+                169 162
+               </p>
+              </div>
+              <button class="Button_button__H7pnj Button_secondary__4N1v_ Button_small__y1tTn" data-testid="send-message">
+               <span class="Button_children___ADUh">
+                Napisz do mnie!
+               </span>
+              </button>
+             </div>
+             <div aria-labelledby="button-author-61" class="LegacyAccordion_accordionDetails__h8F6h SolutionAuthorCard_details__y_KzU" id="accordion-details-author-61">
+              <p class="Typography_margin__1oYQU Typography_body2__xr88K Typography_inherit-color__49B7q" data-testid="description">
+               Nauczycielka matematyki z kilkuletnim doświadczeniem. W wolnym czasie uwielbiam podróżować oraz czytać książki o tematyce kryminalnej.
+              </p>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="Card_card__JRegT Comments_comments__j03m_" data-testid="comments-list">
+         <h2 class="ElemHeader_header__2Kzuf ElemHeader_default__HKfp2 ElemHeader_m__mX2l0">
+          Komentarze
+         </h2>
+         <div class="ContentArea_contentArea__P_m8M">
+          <form class="Form_form__q_jLl Form_form__k0O65">
+           <textarea data-testid="comment-input" disabled="" name="textarea" placeholder="Zaloguj się, aby skomentować zadanie" rows="1"></textarea>
+           <button class="Submit_SubmitButton__OM4NQ Submit_idle__atRDS" data-testid="comment-send-button" disabled="" type="submit">
+            Wyślij
+           </button>
+          </form>
+          <div>
+           <div class="Comment_comment__7BNj6 qa-comment-0">
+            <div class="Comment_avatar__wqFtu">
+             <img alt="Avatar komentatora" class="Avatar_Avatar__Dacog qa-comment-avatar" height="40" loading="lazy" src="https://odrabiamy.pl/img/odrabiamy-anonim.jpg" width="40"/>
+            </div>
+            <div class="Comment_rightPart__M1Fv_">
+             <div class="CommentInfo_commentInfo__xE5xA">
+              <span class="CommentInfo_name__iNBMT qa-comment-user-name">
+               Gość
+              </span>
+              <span class="CommentInfo_date__RkgKN qa-comment-create-date">
+               4 listopada 2019
+              </span>
+             </div>
+             <div class="ContentArea_contentArea__Uwlfh">
+              <div class="qa-comment-content">
+               dzienki rostałem 6
+               <br/>
+              </div>
+              <div class="ContentArea_buttons__EXRO7">
+               <button class="ButtonWithIcon_buttonWithIcon__Sktia Comment_button__PffXz" data-testid="comment-answer-button" type="button">
+                <svg color="silver" height="0.9rem" width="0.9rem">
+                 <use href="/_next/static/media/sprite.31fb17cb.svg#envelop">
+                 </use>
+                </svg>
+               </button>
+               <button class="ButtonWithIcon_buttonWithIcon__Sktia Comment_button__PffXz qa-comment-like-button" disabled="" type="button">
+                <svg color="silver" height="0.9rem" width="0.9rem">
+                 <use href="/_next/static/media/sprite.31fb17cb.svg#heart">
+                 </use>
+                </svg>
+               </button>
+               <span class="ContentArea_voutesCounter__j3Qp0 qa-comment-voutes-counter">
+                70
+               </span>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="CommentWithAnswer_answers__SEYqk qa-comment-answers-0">
+            <div class="Comment_comment__7BNj6 qa-comment-answer-0">
+             <div class="Comment_avatar__wqFtu">
+              <img alt="Avatar komentatora" class="Avatar_Avatar__Dacog qa-comment-avatar" height="40" loading="lazy" src="https://odrabiamy.pl/img/odrabiamy-anonim.jpg" width="40"/>
+             </div>
+             <div class="Comment_rightPart__M1Fv_">
+              <div class="CommentInfo_commentInfo__xE5xA">
+               <span class="CommentInfo_name__iNBMT qa-comment-user-name">
+                dominikajablonska2013
+               </span>
+               <span class="CommentInfo_date__RkgKN qa-comment-create-date">
+                30 marca 2023
+               </span>
+              </div>
+              <div class="ContentArea_contentArea__Uwlfh">
+               <div class="qa-comment-content">
+                @Gość dziękuje
+               </div>
+               <div class="ContentArea_buttons__EXRO7">
+                <button class="ButtonWithIcon_buttonWithIcon__Sktia Comment_button__PffXz" data-testid="comment-answer-button" type="button">
+                 <svg color="silver" height="0.9rem" width="0.9rem">
+                  <use href="/_next/static/media/sprite.31fb17cb.svg#envelop">
+                  </use>
+                 </svg>
+                </button>
+                <button class="ButtonWithIcon_buttonWithIcon__Sktia Comment_button__PffXz qa-comment-like-button" disabled="" type="button">
+                 <svg color="silver" height="0.9rem" width="0.9rem">
+                  <use href="/_next/static/media/sprite.31fb17cb.svg#heart">
+                  </use>
+                 </svg>
+                </button>
+                <span class="ContentArea_voutesCounter__j3Qp0 qa-comment-voutes-counter">
+                 4
+                </span>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div>
+           <div class="Comment_comment__7BNj6 qa-comment-1">
+            <div class="Comment_avatar__wqFtu">
+             <img alt="Avatar komentatora" class="Avatar_Avatar__Dacog qa-comment-avatar" height="40" loading="lazy" src="https://graph.facebook.com/220007878986532/picture?type=square" width="40"/>
+            </div>
+            <div class="Comment_rightPart__M1Fv_">
+             <div class="CommentInfo_commentInfo__xE5xA">
+              <span class="CommentInfo_name__iNBMT qa-comment-user-name">
+               Samuel Zaniewski
+              </span>
+              <span class="CommentInfo_date__RkgKN qa-comment-create-date">
+               7 listopada 2019
+              </span>
+             </div>
+             <div class="ContentArea_contentArea__Uwlfh">
+              <div class="qa-comment-content">
+               Dziękuję
+              </div>
+              <div class="ContentArea_buttons__EXRO7">
+               <button class="ButtonWithIcon_buttonWithIcon__Sktia Comment_button__PffXz" data-testid="comment-answer-button" type="button">
+                <svg color="silver" height="0.9rem" width="0.9rem">
+                 <use href="/_next/static/media/sprite.31fb17cb.svg#envelop">
+                 </use>
+                </svg>
+               </button>
+               <button class="ButtonWithIcon_buttonWithIcon__Sktia Comment_button__PffXz qa-comment-like-button" disabled="" type="button">
+                <svg color="silver" height="0.9rem" width="0.9rem">
+                 <use href="/_next/static/media/sprite.31fb17cb.svg#heart">
+                 </use>
+                </svg>
+               </button>
+               <span class="ContentArea_voutesCounter__j3Qp0 qa-comment-voutes-counter">
+                27
+               </span>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="CommentWithAnswer_answers__SEYqk qa-comment-answers-1">
+           </div>
+          </div>
+          <div>
+           <div class="Comment_comment__7BNj6 qa-comment-2">
+            <div class="Comment_avatar__wqFtu">
+             <img alt="Avatar komentatora" class="Avatar_Avatar__Dacog qa-comment-avatar" height="40" loading="lazy" src="https://odrabiamy.pl/img/odrabiamy-anonim.jpg" width="40"/>
+            </div>
+            <div class="Comment_rightPart__M1Fv_">
+             <div class="CommentInfo_commentInfo__xE5xA">
+              <span class="CommentInfo_name__iNBMT qa-comment-user-name">
+               Gość
+              </span>
+              <span class="CommentInfo_date__RkgKN qa-comment-create-date">
+               27 stycznia 2020
+              </span>
+             </div>
+             <div class="ContentArea_contentArea__Uwlfh">
+              <div class="qa-comment-content">
+               dziękuje
+              </div>
+              <div class="ContentArea_buttons__EXRO7">
+               <button class="ButtonWithIcon_buttonWithIcon__Sktia Comment_button__PffXz" data-testid="comment-answer-button" type="button">
+                <svg color="silver" height="0.9rem" width="0.9rem">
+                 <use href="/_next/static/media/sprite.31fb17cb.svg#envelop">
+                 </use>
+                </svg>
+               </button>
+               <button class="ButtonWithIcon_buttonWithIcon__Sktia Comment_button__PffXz qa-comment-like-button" disabled="" type="button">
+                <svg color="silver" height="0.9rem" width="0.9rem">
+                 <use href="/_next/static/media/sprite.31fb17cb.svg#heart">
+                 </use>
+                </svg>
+               </button>
+               <span class="ContentArea_voutesCounter__j3Qp0 qa-comment-voutes-counter">
+                26
+               </span>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="CommentWithAnswer_answers__SEYqk qa-comment-answers-2">
+           </div>
+          </div>
+          <div>
+           <div class="Comment_comment__7BNj6 qa-comment-3">
+            <div class="Comment_avatar__wqFtu">
+             <img alt="Avatar komentatora" class="Avatar_Avatar__Dacog qa-comment-avatar" height="40" loading="lazy" src="https://prod.odrabiamy-assets.pl/uploads/user_avatar/avatar/163592/avatar_1659838.jpeg?t=1640792733" width="40"/>
+            </div>
+            <div class="Comment_rightPart__M1Fv_">
+             <div class="CommentInfo_commentInfo__xE5xA">
+              <span class="CommentInfo_name__iNBMT qa-comment-user-name">
+               jakub.wieczor
+              </span>
+              <span class="CommentInfo_date__RkgKN qa-comment-create-date">
+               1 maja 2020
+              </span>
+             </div>
+             <div class="ContentArea_contentArea__Uwlfh">
+              <div class="qa-comment-content">
+               dzienki
+              </div>
+              <div class="ContentArea_buttons__EXRO7">
+               <button class="ButtonWithIcon_buttonWithIcon__Sktia Comment_button__PffXz" data-testid="comment-answer-button" type="button">
+                <svg color="silver" height="0.9rem" width="0.9rem">
+                 <use href="/_next/static/media/sprite.31fb17cb.svg#envelop">
+                 </use>
+                </svg>
+               </button>
+               <button class="ButtonWithIcon_buttonWithIcon__Sktia Comment_button__PffXz qa-comment-like-button" disabled="" type="button">
+                <svg color="silver" height="0.9rem" width="0.9rem">
+                 <use href="/_next/static/media/sprite.31fb17cb.svg#heart">
+                 </use>
+                </svg>
+               </button>
+               <span class="ContentArea_voutesCounter__j3Qp0 qa-comment-voutes-counter">
+                20
+               </span>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="CommentWithAnswer_answers__SEYqk qa-comment-answers-3">
+           </div>
+          </div>
+          <div>
+           <div class="Comment_comment__7BNj6 qa-comment-4">
+            <div class="Comment_avatar__wqFtu">
+             <img alt="Avatar komentatora" class="Avatar_Avatar__Dacog qa-comment-avatar" height="40" loading="lazy" src="https://odrabiamy.pl/img/odrabiamy-anonim.jpg" width="40"/>
+            </div>
+            <div class="Comment_rightPart__M1Fv_">
+             <div class="CommentInfo_commentInfo__xE5xA">
+              <span class="CommentInfo_name__iNBMT qa-comment-user-name">
+               maciejgorski7777
+              </span>
+              <span class="CommentInfo_date__RkgKN qa-comment-create-date">
+               14 grudnia 2020
+              </span>
+             </div>
+             <div class="ContentArea_contentArea__Uwlfh">
+              <div class="qa-comment-content">
+               dzienki
+              </div>
+              <div class="ContentArea_buttons__EXRO7">
+               <button class="ButtonWithIcon_buttonWithIcon__Sktia Comment_button__PffXz" data-testid="comment-answer-button" type="button">
+                <svg color="silver" height="0.9rem" width="0.9rem">
+                 <use href="/_next/static/media/sprite.31fb17cb.svg#envelop">
+                 </use>
+                </svg>
+               </button>
+               <button class="ButtonWithIcon_buttonWithIcon__Sktia Comment_button__PffXz qa-comment-like-button" disabled="" type="button">
+                <svg color="silver" height="0.9rem" width="0.9rem">
+                 <use href="/_next/static/media/sprite.31fb17cb.svg#heart">
+                 </use>
+                </svg>
+               </button>
+               <span class="ContentArea_voutesCounter__j3Qp0 qa-comment-voutes-counter">
+                17
+               </span>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="CommentWithAnswer_answers__SEYqk qa-comment-answers-4">
+           </div>
+          </div>
+          <div>
+           <div class="Comment_comment__7BNj6 qa-comment-5">
+            <div class="Comment_avatar__wqFtu">
+             <img alt="Avatar komentatora" class="Avatar_Avatar__Dacog qa-comment-avatar" height="40" loading="lazy" src="https://odrabiamy.pl/img/odrabiamy-anonim.jpg" width="40"/>
+            </div>
+            <div class="Comment_rightPart__M1Fv_">
+             <div class="CommentInfo_commentInfo__xE5xA">
+              <span class="CommentInfo_name__iNBMT qa-comment-user-name">
+               emiliawell123
+              </span>
+              <span class="CommentInfo_date__RkgKN qa-comment-create-date">
+               16 marca 2021
+              </span>
+             </div>
+             <div class="ContentArea_contentArea__Uwlfh">
+              <div class="qa-comment-content">
+               dziękuję
+              </div>
+              <div class="ContentArea_buttons__EXRO7">
+               <button class="ButtonWithIcon_buttonWithIcon__Sktia Comment_button__PffXz" data-testid="comment-answer-button" type="button">
+                <svg color="silver" height="0.9rem" width="0.9rem">
+                 <use href="/_next/static/media/sprite.31fb17cb.svg#envelop">
+                 </use>
+                </svg>
+               </button>
+               <button class="ButtonWithIcon_buttonWithIcon__Sktia Comment_button__PffXz qa-comment-like-button" disabled="" type="button">
+                <svg color="silver" height="0.9rem" width="0.9rem">
+                 <use href="/_next/static/media/sprite.31fb17cb.svg#heart">
+                 </use>
+                </svg>
+               </button>
+               <span class="ContentArea_voutesCounter__j3Qp0 qa-comment-voutes-counter">
+                9
+               </span>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="CommentWithAnswer_answers__SEYqk qa-comment-answers-5">
+           </div>
+          </div>
+          <div>
+           <div class="Comment_comment__7BNj6 qa-comment-6">
+            <div class="Comment_avatar__wqFtu">
+             <img alt="Avatar komentatora" class="Avatar_Avatar__Dacog qa-comment-avatar" height="40" loading="lazy" src="https://prod.odrabiamy-assets.pl/uploads/default_avatar/image/4/g15.png" width="40"/>
+            </div>
+            <div class="Comment_rightPart__M1Fv_">
+             <div class="CommentInfo_commentInfo__xE5xA">
+              <span class="CommentInfo_name__iNBMT qa-comment-user-name">
+               konrad.bieniasz1
+              </span>
+              <span class="CommentInfo_date__RkgKN qa-comment-create-date">
+               15 września 2021
+              </span>
+             </div>
+             <div class="ContentArea_contentArea__Uwlfh">
+              <div class="qa-comment-content">
+               dziękuje :)
+              </div>
+              <div class="ContentArea_buttons__EXRO7">
+               <button class="ButtonWithIcon_buttonWithIcon__Sktia Comment_button__PffXz" data-testid="comment-answer-button" type="button">
+                <svg color="silver" height="0.9rem" width="0.9rem">
+                 <use href="/_next/static/media/sprite.31fb17cb.svg#envelop">
+                 </use>
+                </svg>
+               </button>
+               <button class="ButtonWithIcon_buttonWithIcon__Sktia Comment_button__PffXz qa-comment-like-button" disabled="" type="button">
+                <svg color="silver" height="0.9rem" width="0.9rem">
+                 <use href="/_next/static/media/sprite.31fb17cb.svg#heart">
+                 </use>
+                </svg>
+               </button>
+               <span class="ContentArea_voutesCounter__j3Qp0 qa-comment-voutes-counter">
+                12
+               </span>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="CommentWithAnswer_answers__SEYqk qa-comment-answers-6">
+           </div>
+          </div>
+          <div>
+           <div class="Comment_comment__7BNj6 qa-comment-7">
+            <div class="Comment_avatar__wqFtu">
+             <img alt="Avatar komentatora" class="Avatar_Avatar__Dacog qa-comment-avatar" height="40" loading="lazy" src="https://odrabiamy.pl/img/odrabiamy-anonim.jpg" width="40"/>
+            </div>
+            <div class="Comment_rightPart__M1Fv_">
+             <div class="CommentInfo_commentInfo__xE5xA">
+              <span class="CommentInfo_name__iNBMT qa-comment-user-name">
+               kupek
+              </span>
+              <span class="CommentInfo_date__RkgKN qa-comment-create-date">
+               4 października 2021
+              </span>
+             </div>
+             <div class="ContentArea_contentArea__Uwlfh">
+              <div class="qa-comment-content">
+               dziękuje
+              </div>
+              <div class="ContentArea_buttons__EXRO7">
+               <button class="ButtonWithIcon_buttonWithIcon__Sktia Comment_button__PffXz" data-testid="comment-answer-button" type="button">
+                <svg color="silver" height="0.9rem" width="0.9rem">
+                 <use href="/_next/static/media/sprite.31fb17cb.svg#envelop">
+                 </use>
+                </svg>
+               </button>
+               <button class="ButtonWithIcon_buttonWithIcon__Sktia Comment_button__PffXz qa-comment-like-button" disabled="" type="button">
+                <svg color="silver" height="0.9rem" width="0.9rem">
+                 <use href="/_next/static/media/sprite.31fb17cb.svg#heart">
+                 </use>
+                </svg>
+               </button>
+               <span class="ContentArea_voutesCounter__j3Qp0 qa-comment-voutes-counter">
+                6
+               </span>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="CommentWithAnswer_answers__SEYqk qa-comment-answers-7">
+           </div>
+          </div>
+          <div>
+           <div class="Comment_comment__7BNj6 qa-comment-8">
+            <div class="Comment_avatar__wqFtu">
+             <img alt="Avatar komentatora" class="Avatar_Avatar__Dacog qa-comment-avatar" height="40" loading="lazy" src="https://graph.facebook.com/2921882384516690/picture?type=square" width="40"/>
+            </div>
+            <div class="Comment_rightPart__M1Fv_">
+             <div class="CommentInfo_commentInfo__xE5xA">
+              <span class="CommentInfo_name__iNBMT qa-comment-user-name">
+               Magdalena Leszniewska
+              </span>
+              <span class="CommentInfo_date__RkgKN qa-comment-create-date">
+               8 października 2021
+              </span>
+             </div>
+             <div class="ContentArea_contentArea__Uwlfh">
+              <div class="qa-comment-content">
+               Jak  zawsze super !!!
+              </div>
+              <div class="ContentArea_buttons__EXRO7">
+               <button class="ButtonWithIcon_buttonWithIcon__Sktia Comment_button__PffXz" data-testid="comment-answer-button" type="button">
+                <svg color="silver" height="0.9rem" width="0.9rem">
+                 <use href="/_next/static/media/sprite.31fb17cb.svg#envelop">
+                 </use>
+                </svg>
+               </button>
+               <button class="ButtonWithIcon_buttonWithIcon__Sktia Comment_button__PffXz qa-comment-like-button" disabled="" type="button">
+                <svg color="silver" height="0.9rem" width="0.9rem">
+                 <use href="/_next/static/media/sprite.31fb17cb.svg#heart">
+                 </use>
+                </svg>
+               </button>
+               <span class="ContentArea_voutesCounter__j3Qp0 qa-comment-voutes-counter">
+                16
+               </span>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="CommentWithAnswer_answers__SEYqk qa-comment-answers-8">
+           </div>
+          </div>
+          <div>
+           <div class="Comment_comment__7BNj6 qa-comment-9">
+            <div class="Comment_avatar__wqFtu">
+             <img alt="Avatar komentatora" class="Avatar_Avatar__Dacog qa-comment-avatar" height="40" loading="lazy" src="https://graph.facebook.com/644369215895149/picture?type=square" width="40"/>
+            </div>
+            <div class="Comment_rightPart__M1Fv_">
+             <div class="CommentInfo_commentInfo__xE5xA">
+              <span class="CommentInfo_name__iNBMT qa-comment-user-name">
+               adamalysz321
+              </span>
+              <span class="CommentInfo_date__RkgKN qa-comment-create-date">
+               12 października 2021
+              </span>
+             </div>
+             <div class="ContentArea_contentArea__Uwlfh">
+              <div class="qa-comment-content">
+               Dziękuję
+              </div>
+              <div class="ContentArea_buttons__EXRO7">
+               <button class="ButtonWithIcon_buttonWithIcon__Sktia Comment_button__PffXz" data-testid="comment-answer-button" type="button">
+                <svg color="silver" height="0.9rem" width="0.9rem">
+                 <use href="/_next/static/media/sprite.31fb17cb.svg#envelop">
+                 </use>
+                </svg>
+               </button>
+               <button class="ButtonWithIcon_buttonWithIcon__Sktia Comment_button__PffXz qa-comment-like-button" disabled="" type="button">
+                <svg color="silver" height="0.9rem" width="0.9rem">
+                 <use href="/_next/static/media/sprite.31fb17cb.svg#heart">
+                 </use>
+                </svg>
+               </button>
+               <span class="ContentArea_voutesCounter__j3Qp0 qa-comment-voutes-counter">
+                4
+               </span>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="CommentWithAnswer_answers__SEYqk qa-comment-answers-9">
+           </div>
+          </div>
+          <div>
+           <div class="Comment_comment__7BNj6 qa-comment-10">
+            <div class="Comment_avatar__wqFtu">
+             <img alt="Avatar komentatora" class="Avatar_Avatar__Dacog qa-comment-avatar" height="40" loading="lazy" src="https://graph.facebook.com/795106654665308/picture?type=square" width="40"/>
+            </div>
+            <div class="Comment_rightPart__M1Fv_">
+             <div class="CommentInfo_commentInfo__xE5xA">
+              <span class="CommentInfo_name__iNBMT qa-comment-user-name">
+               Hubert Karczewski
+              </span>
+              <span class="CommentInfo_date__RkgKN qa-comment-create-date">
+               3 listopada 2021
+              </span>
+             </div>
+             <div class="ContentArea_contentArea__Uwlfh">
+              <div class="qa-comment-content">
+               dzięki ❤
+              </div>
+              <div class="ContentArea_buttons__EXRO7">
+               <button class="ButtonWithIcon_buttonWithIcon__Sktia Comment_button__PffXz" data-testid="comment-answer-button" type="button">
+                <svg color="silver" height="0.9rem" width="0.9rem">
+                 <use href="/_next/static/media/sprite.31fb17cb.svg#envelop">
+                 </use>
+                </svg>
+               </button>
+               <button class="ButtonWithIcon_buttonWithIcon__Sktia Comment_button__PffXz qa-comment-like-button" disabled="" type="button">
+                <svg color="silver" height="0.9rem" width="0.9rem">
+                 <use href="/_next/static/media/sprite.31fb17cb.svg#heart">
+                 </use>
+                </svg>
+               </button>
+               <span class="ContentArea_voutesCounter__j3Qp0 qa-comment-voutes-counter">
+                10
+               </span>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="CommentWithAnswer_answers__SEYqk qa-comment-answers-10">
+           </div>
+          </div>
+          <div>
+           <div class="Comment_comment__7BNj6 qa-comment-11">
+            <div class="Comment_avatar__wqFtu">
+             <img alt="Avatar komentatora" class="Avatar_Avatar__Dacog qa-comment-avatar" height="40" loading="lazy" src="https://graph.facebook.com/122584043667018/picture?type=square" width="40"/>
+            </div>
+            <div class="Comment_rightPart__M1Fv_">
+             <div class="CommentInfo_commentInfo__xE5xA">
+              <span class="CommentInfo_name__iNBMT qa-comment-user-name">
+               Julia Kazimierska
+              </span>
+              <span class="CommentInfo_date__RkgKN qa-comment-create-date">
+               7 marca 2022
+              </span>
+             </div>
+             <div class="ContentArea_contentArea__Uwlfh">
+              <div class="qa-comment-content">
+               Dziękuję dostałam 5+
+              </div>
+              <div class="ContentArea_buttons__EXRO7">
+               <button class="ButtonWithIcon_buttonWithIcon__Sktia Comment_button__PffXz" data-testid="comment-answer-button" type="button">
+                <svg color="silver" height="0.9rem" width="0.9rem">
+                 <use href="/_next/static/media/sprite.31fb17cb.svg#envelop">
+                 </use>
+                </svg>
+               </button>
+               <button class="ButtonWithIcon_buttonWithIcon__Sktia Comment_button__PffXz qa-comment-like-button" disabled="" type="button">
+                <svg color="silver" height="0.9rem" width="0.9rem">
+                 <use href="/_next/static/media/sprite.31fb17cb.svg#heart">
+                 </use>
+                </svg>
+               </button>
+               <span class="ContentArea_voutesCounter__j3Qp0 qa-comment-voutes-counter">
+                9
+               </span>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="CommentWithAnswer_answers__SEYqk qa-comment-answers-11">
+           </div>
+          </div>
+          <div>
+           <div class="Comment_comment__7BNj6 qa-comment-12">
+            <div class="Comment_avatar__wqFtu">
+             <img alt="Avatar komentatora" class="Avatar_Avatar__Dacog qa-comment-avatar" height="40" loading="lazy" src="https://graph.facebook.com/585996786587858/picture?type=square" width="40"/>
+            </div>
+            <div class="Comment_rightPart__M1Fv_">
+             <div class="CommentInfo_commentInfo__xE5xA">
+              <span class="CommentInfo_name__iNBMT qa-comment-user-name">
+               Tomek Budnicki
+              </span>
+              <span class="CommentInfo_date__RkgKN qa-comment-create-date">
+               18 października 2022
+              </span>
+             </div>
+             <div class="ContentArea_contentArea__Uwlfh">
+              <div class="qa-comment-content">
+               Dziękuje wam
+              </div>
+              <div class="ContentArea_buttons__EXRO7">
+               <button class="ButtonWithIcon_buttonWithIcon__Sktia Comment_button__PffXz" data-testid="comment-answer-button" type="button">
+                <svg color="silver" height="0.9rem" width="0.9rem">
+                 <use href="/_next/static/media/sprite.31fb17cb.svg#envelop">
+                 </use>
+                </svg>
+               </button>
+               <button class="ButtonWithIcon_buttonWithIcon__Sktia Comment_button__PffXz qa-comment-like-button" disabled="" type="button">
+                <svg color="silver" height="0.9rem" width="0.9rem">
+                 <use href="/_next/static/media/sprite.31fb17cb.svg#heart">
+                 </use>
+                </svg>
+               </button>
+               <span class="ContentArea_voutesCounter__j3Qp0 qa-comment-voutes-counter">
+                5
+               </span>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="CommentWithAnswer_answers__SEYqk qa-comment-answers-12">
+           </div>
+          </div>
+          <div>
+           <div class="Comment_comment__7BNj6 qa-comment-13">
+            <div class="Comment_avatar__wqFtu">
+             <img alt="Avatar komentatora" class="Avatar_Avatar__Dacog qa-comment-avatar" height="40" loading="lazy" src="https://graph.facebook.com/477459611201713/picture?type=square" width="40"/>
+            </div>
+            <div class="Comment_rightPart__M1Fv_">
+             <div class="CommentInfo_commentInfo__xE5xA">
+              <span class="CommentInfo_name__iNBMT qa-comment-user-name">
+               Ami Ami
+              </span>
+              <span class="CommentInfo_date__RkgKN qa-comment-create-date">
+               30 grudnia 2022
+              </span>
+             </div>
+             <div class="ContentArea_contentArea__Uwlfh">
+              <div class="qa-comment-content">
+               Dziękuje 
+za odpowiedz
+              </div>
+              <div class="ContentArea_buttons__EXRO7">
+               <button class="ButtonWithIcon_buttonWithIcon__Sktia Comment_button__PffXz" data-testid="comment-answer-button" type="button">
+                <svg color="silver" height="0.9rem" width="0.9rem">
+                 <use href="/_next/static/media/sprite.31fb17cb.svg#envelop">
+                 </use>
+                </svg>
+               </button>
+               <button class="ButtonWithIcon_buttonWithIcon__Sktia Comment_button__PffXz qa-comment-like-button" disabled="" type="button">
+                <svg color="silver" height="0.9rem" width="0.9rem">
+                 <use href="/_next/static/media/sprite.31fb17cb.svg#heart">
+                 </use>
+                </svg>
+               </button>
+               <span class="ContentArea_voutesCounter__j3Qp0 qa-comment-voutes-counter">
+                1
+               </span>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="CommentWithAnswer_answers__SEYqk qa-comment-answers-13">
+           </div>
+          </div>
+          <div>
+           <div class="Comment_comment__7BNj6 qa-comment-14">
+            <div class="Comment_avatar__wqFtu">
+             <svg color="silver" height="0.7rem" width="0.7rem">
+              <use href="/_next/static/media/sprite.31fb17cb.svg#star-full">
+              </use>
+             </svg>
+             <img alt="Avatar komentatora" class="Avatar_Avatar__Dacog qa-comment-avatar" height="40" loading="lazy" src="https://graph.facebook.com/3407949669476161/picture?type=square" width="40"/>
+            </div>
+            <div class="Comment_rightPart__M1Fv_">
+             <div class="CommentInfo_commentInfo__xE5xA">
+              <span class="CommentInfo_name__iNBMT qa-comment-user-name">
+               Kamila Nowak
+              </span>
+              <span class="CommentInfo_date__RkgKN qa-comment-create-date">
+               14 lutego 2023
+              </span>
+             </div>
+             <div class="ContentArea_contentArea__Uwlfh">
+              <div class="qa-comment-content">
+               Dziękuję bardzo
+              </div>
+              <div class="ContentArea_buttons__EXRO7">
+               <button class="ButtonWithIcon_buttonWithIcon__Sktia Comment_button__PffXz" data-testid="comment-answer-button" type="button">
+                <svg color="silver" height="0.9rem" width="0.9rem">
+                 <use href="/_next/static/media/sprite.31fb17cb.svg#envelop">
+                 </use>
+                </svg>
+               </button>
+               <button class="ButtonWithIcon_buttonWithIcon__Sktia Comment_button__PffXz qa-comment-like-button" disabled="" type="button">
+                <svg color="silver" height="0.9rem" width="0.9rem">
+                 <use href="/_next/static/media/sprite.31fb17cb.svg#heart">
+                 </use>
+                </svg>
+               </button>
+               <span class="ContentArea_voutesCounter__j3Qp0 qa-comment-voutes-counter">
+                0
+               </span>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="CommentWithAnswer_answers__SEYqk qa-comment-answers-14">
+           </div>
+          </div>
+          <div>
+           <div class="Comment_comment__7BNj6 qa-comment-15">
+            <div class="Comment_avatar__wqFtu">
+             <svg color="silver" height="0.7rem" width="0.7rem">
+              <use href="/_next/static/media/sprite.31fb17cb.svg#star-full">
+              </use>
+             </svg>
+             <img alt="Avatar komentatora" class="Avatar_Avatar__Dacog qa-comment-avatar" height="40" loading="lazy" src="https://odrabiamy.pl/img/odrabiamy-anonim.jpg" width="40"/>
+            </div>
+            <div class="Comment_rightPart__M1Fv_">
+             <div class="CommentInfo_commentInfo__xE5xA">
+              <span class="CommentInfo_name__iNBMT qa-comment-user-name">
+               wszurlej
+              </span>
+              <span class="CommentInfo_date__RkgKN qa-comment-create-date">
+               28 marca 2023
+              </span>
+             </div>
+             <div class="ContentArea_contentArea__Uwlfh">
+              <div class="qa-comment-content">
+               Dziękuję za zadanie
+              </div>
+              <div class="ContentArea_buttons__EXRO7">
+               <button class="ButtonWithIcon_buttonWithIcon__Sktia Comment_button__PffXz" data-testid="comment-answer-button" type="button">
+                <svg color="silver" height="0.9rem" width="0.9rem">
+                 <use href="/_next/static/media/sprite.31fb17cb.svg#envelop">
+                 </use>
+                </svg>
+               </button>
+               <button class="ButtonWithIcon_buttonWithIcon__Sktia Comment_button__PffXz qa-comment-like-button" disabled="" type="button">
+                <svg color="silver" height="0.9rem" width="0.9rem">
+                 <use href="/_next/static/media/sprite.31fb17cb.svg#heart">
+                 </use>
+                </svg>
+               </button>
+               <span class="ContentArea_voutesCounter__j3Qp0 qa-comment-voutes-counter">
+                0
+               </span>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="CommentWithAnswer_answers__SEYqk qa-comment-answers-15">
+           </div>
+          </div>
+          <div>
+           <div class="Comment_comment__7BNj6 qa-comment-16">
+            <div class="Comment_avatar__wqFtu">
+             <img alt="Avatar komentatora" class="Avatar_Avatar__Dacog qa-comment-avatar" height="40" loading="lazy" src="https://odrabiamy.pl/img/odrabiamy-anonim.jpg" width="40"/>
+            </div>
+            <div class="Comment_rightPart__M1Fv_">
+             <div class="CommentInfo_commentInfo__xE5xA">
+              <span class="CommentInfo_name__iNBMT qa-comment-user-name">
+               lwysocka3008
+              </span>
+              <span class="CommentInfo_date__RkgKN qa-comment-create-date">
+               14 maja 2023
+              </span>
+             </div>
+             <div class="ContentArea_contentArea__Uwlfh">
+              <div class="qa-comment-content">
+               Dziękuję dostałam 6
+              </div>
+              <div class="ContentArea_buttons__EXRO7">
+               <button class="ButtonWithIcon_buttonWithIcon__Sktia Comment_button__PffXz" data-testid="comment-answer-button" type="button">
+                <svg color="silver" height="0.9rem" width="0.9rem">
+                 <use href="/_next/static/media/sprite.31fb17cb.svg#envelop">
+                 </use>
+                </svg>
+               </button>
+               <button class="ButtonWithIcon_buttonWithIcon__Sktia Comment_button__PffXz qa-comment-like-button" disabled="" type="button">
+                <svg color="silver" height="0.9rem" width="0.9rem">
+                 <use href="/_next/static/media/sprite.31fb17cb.svg#heart">
+                 </use>
+                </svg>
+               </button>
+               <span class="ContentArea_voutesCounter__j3Qp0 qa-comment-voutes-counter">
+                0
+               </span>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="CommentWithAnswer_answers__SEYqk qa-comment-answers-16">
+           </div>
+          </div>
+          <div>
+           <div class="Comment_comment__7BNj6 qa-comment-17">
+            <div class="Comment_avatar__wqFtu">
+             <img alt="Avatar komentatora" class="Avatar_Avatar__Dacog qa-comment-avatar" height="40" loading="lazy" src="https://odrabiamy.pl/img/odrabiamy-anonim.jpg" width="40"/>
+            </div>
+            <div class="Comment_rightPart__M1Fv_">
+             <div class="CommentInfo_commentInfo__xE5xA">
+              <span class="CommentInfo_name__iNBMT qa-comment-user-name">
+               weronikaparadyz
+              </span>
+              <span class="CommentInfo_date__RkgKN qa-comment-create-date">
+               14 maja 2023
+              </span>
+             </div>
+             <div class="ContentArea_contentArea__Uwlfh">
+              <div class="qa-comment-content">
+               Dzìęki za super pomoc♡♡♡♡♡♡♡♡♡♡♡♡♡♡
+              </div>
+              <div class="ContentArea_buttons__EXRO7">
+               <button class="ButtonWithIcon_buttonWithIcon__Sktia Comment_button__PffXz" data-testid="comment-answer-button" type="button">
+                <svg color="silver" height="0.9rem" width="0.9rem">
+                 <use href="/_next/static/media/sprite.31fb17cb.svg#envelop">
+                 </use>
+                </svg>
+               </button>
+               <button class="ButtonWithIcon_buttonWithIcon__Sktia Comment_button__PffXz qa-comment-like-button" disabled="" type="button">
+                <svg color="silver" height="0.9rem" width="0.9rem">
+                 <use href="/_next/static/media/sprite.31fb17cb.svg#heart">
+                 </use>
+                </svg>
+               </button>
+               <span class="ContentArea_voutesCounter__j3Qp0 qa-comment-voutes-counter">
+                1
+               </span>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="CommentWithAnswer_answers__SEYqk qa-comment-answers-17">
+           </div>
+          </div>
+          <div>
+           <div class="Comment_comment__7BNj6 qa-comment-18">
+            <div class="Comment_avatar__wqFtu">
+             <img alt="Avatar komentatora" class="Avatar_Avatar__Dacog qa-comment-avatar" height="40" loading="lazy" src="https://prod.odrabiamy-assets.pl/uploads/user_avatar/avatar/568437/avatar_2666478.jpeg?t=1685686461" width="40"/>
+            </div>
+            <div class="Comment_rightPart__M1Fv_">
+             <div class="CommentInfo_commentInfo__xE5xA">
+              <span class="CommentInfo_name__iNBMT qa-comment-user-name">
+               madzik.m92
+              </span>
+              <span class="CommentInfo_date__RkgKN qa-comment-create-date">
+               29 maja 2023
+              </span>
+             </div>
+             <div class="ContentArea_contentArea__Uwlfh">
+              <div class="qa-comment-content">
+               super! dziękuje
+              </div>
+              <div class="ContentArea_buttons__EXRO7">
+               <button class="ButtonWithIcon_buttonWithIcon__Sktia Comment_button__PffXz" data-testid="comment-answer-button" type="button">
+                <svg color="silver" height="0.9rem" width="0.9rem">
+                 <use href="/_next/static/media/sprite.31fb17cb.svg#envelop">
+                 </use>
+                </svg>
+               </button>
+               <button class="ButtonWithIcon_buttonWithIcon__Sktia Comment_button__PffXz qa-comment-like-button" disabled="" type="button">
+                <svg color="silver" height="0.9rem" width="0.9rem">
+                 <use href="/_next/static/media/sprite.31fb17cb.svg#heart">
+                 </use>
+                </svg>
+               </button>
+               <span class="ContentArea_voutesCounter__j3Qp0 qa-comment-voutes-counter">
+                0
+               </span>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="CommentWithAnswer_answers__SEYqk qa-comment-answers-18">
+           </div>
+          </div>
+          <div>
+           <div class="Comment_comment__7BNj6 qa-comment-19">
+            <div class="Comment_avatar__wqFtu">
+             <img alt="Avatar komentatora" class="Avatar_Avatar__Dacog qa-comment-avatar" height="40" loading="lazy" src="https://odrabiamy.pl/img/odrabiamy-anonim.jpg" width="40"/>
+            </div>
+            <div class="Comment_rightPart__M1Fv_">
+             <div class="CommentInfo_commentInfo__xE5xA">
+              <span class="CommentInfo_name__iNBMT qa-comment-user-name">
+               Kczubernat10
+              </span>
+              <span class="CommentInfo_date__RkgKN qa-comment-create-date">
+               1 czerwca 2023
+              </span>
+             </div>
+             <div class="ContentArea_contentArea__Uwlfh">
+              <div class="qa-comment-content">
+               Dziękuję bardzo
+              </div>
+              <div class="ContentArea_buttons__EXRO7">
+               <button class="ButtonWithIcon_buttonWithIcon__Sktia Comment_button__PffXz" data-testid="comment-answer-button" type="button">
+                <svg color="silver" height="0.9rem" width="0.9rem">
+                 <use href="/_next/static/media/sprite.31fb17cb.svg#envelop">
+                 </use>
+                </svg>
+               </button>
+               <button class="ButtonWithIcon_buttonWithIcon__Sktia Comment_button__PffXz qa-comment-like-button" disabled="" type="button">
+                <svg color="silver" height="0.9rem" width="0.9rem">
+                 <use href="/_next/static/media/sprite.31fb17cb.svg#heart">
+                 </use>
+                </svg>
+               </button>
+               <span class="ContentArea_voutesCounter__j3Qp0 qa-comment-voutes-counter">
+                0
+               </span>
+              </div>
+             </div>
+            </div>
+           </div>
+           <div class="CommentWithAnswer_answers__SEYqk qa-comment-answers-19">
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <aside class="BookPage_asideContent__dfsSF">
+        <div class="Cards_cards__TFMK4">
+         <div class="Card_card__JRegT" data-testid="book-details">
+          <h2 class="ElemHeader_header__2Kzuf ElemHeader_default__HKfp2 ElemHeader_m__mX2l0">
+           Informacje o książce
+          </h2>
+          <div class="ContentArea_contentArea__P_m8M">
+           <div class="Card_bookCard__kBGNQ">
+            <div class="Info_info__T5wZT" id="qa-book-info">
+             <span class="BookIcon_manual__Vdl_4">
+              <svg data-testid="icon" height="35" width="35">
+               <title>
+                Matematyka - Podręcznik
+               </title>
+               <use href="/_next/static/media/sprite.31fb17cb.svg#book/maths">
+               </use>
+              </svg>
+             </span>
+             <div class="Info_mainDetails__f_Vc_">
+              <p class="qa-book-type">
+               Podręcznik
+              </p>
+              <h4 class="Info_title__qVl2U qa-book-title">
+               MATeMAtyka 1. Zakres podstawowy
+              </h4>
+             </div>
+            </div>
+            <div class="ExtraInfo_extraInfo__VO0fa">
+             <div class="ExtraInfo_title__65_Be">
+              Wydawnictwo
+              <!-- -->
+              :
+             </div>
+             <div class="ExtraInfo_value__ufS_l" id="qa-book-publisher">
+              Nowa Era
+             </div>
+            </div>
+            <div class="ExtraInfo_extraInfo__VO0fa">
+             <div class="ExtraInfo_title__65_Be">
+              Rok wydania
+              <!-- -->
+              :
+             </div>
+             <div class="ExtraInfo_value__ufS_l" id="qa-book-published-year">
+              2019
+             </div>
+            </div>
+            <div class="ExtraInfo_extraInfo__VO0fa">
+             <div class="ExtraInfo_title__65_Be">
+              Autorzy
+              <!-- -->
+              :
+             </div>
+             <div class="ExtraInfo_value__ufS_l" id="qa-book-authors">
+              Wojciech Babiański, Lech Chańko, Karolina Wej
+             </div>
+            </div>
+            <div class="ExtraInfo_extraInfo__VO0fa">
+             <div class="ExtraInfo_title__65_Be">
+              ISBN
+              <!-- -->
+              :
+             </div>
+             <div class="ExtraInfo_value__ufS_l" id="qa-book-isbn">
+              9788326734854
+             </div>
+            </div>
+           </div>
+           <div class="UserBookButton_buttonWrapper__odihj">
+            <button aria-label="Dodaj do Moich książek" class="Button_button__H7pnj Button_primary__36J7U Button_small__y1tTn BookDetails_mainButton__6uFKo UserBookButton_button__vaMP_" data-testid="qa-add-book-to-favourites" title="Dodaj do Moich książek">
+             <span class="Button_children___ADUh">
+              Dodaj do Moich książek
+              <svg height="16px" width="16px">
+               <use href="/_next/static/media/sprite.31fb17cb.svg#plus-circle">
+               </use>
+              </svg>
+             </span>
+            </button>
+           </div>
+          </div>
+         </div>
+         <div class="Card_card__PnT4F LearnestPromotion_learnestPromotion__DH_pD">
+          <div class="LearnestPromotion_imageWrapper__UiUDk">
+           <img alt="" data-nimg="fill" decoding="async" loading="lazy" sizes="100vw" src="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FlearnestPromoPhoto.fe693a33.png&amp;w=3840&amp;q=75" srcset="/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FlearnestPromoPhoto.fe693a33.png&amp;w=640&amp;q=75 640w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2FlearnestPromoPhoto.fe693a33.png&amp;w=750&amp;q=75 750w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2FlearnestPromoPhoto.fe693a33.png&amp;w=828&amp;q=75 828w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2FlearnestPromoPhoto.fe693a33.png&amp;w=1080&amp;q=75 1080w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2FlearnestPromoPhoto.fe693a33.png&amp;w=1200&amp;q=75 1200w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2FlearnestPromoPhoto.fe693a33.png&amp;w=1920&amp;q=75 1920w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2FlearnestPromoPhoto.fe693a33.png&amp;w=2048&amp;q=75 2048w, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2FlearnestPromoPhoto.fe693a33.png&amp;w=3840&amp;q=75 3840w" style="position: absolute; height: 100%; width: 100%; inset: 0px; color: transparent;"/>
+          </div>
+          <h5 class="Typography_margin__1oYQU Typography_h5__kIoZt LearnestPromotion_title__86Zkv">
+           Ucz się poprzez wideo
+          </h5>
+          <p class="Typography_margin__1oYQU Typography_body1__g3wiF LearnestPromotion_description__CoYbQ">
+           Zdobądź solidne przygotowanie i pewność siebie na egzaminie już teraz!
+          </p>
+          <a class="Button_button__H7pnj Button_primary__36J7U Button_normal__OzyKl LearnestPromotion_button__pzzAm" href="/kursy">
+           Poznaj nasze kursy
+          </a>
+         </div>
+         <div class="Card_card__JRegT Card_userBooksCard__4b4IB">
+          <h2 class="ElemHeader_header__2Kzuf ElemHeader_default__HKfp2 ElemHeader_m__mX2l0">
+           Moje książki
+          </h2>
+          <div class="ContentArea_contentArea__P_m8M">
+           <div class="EmptyList_wrapper__ra9s_ EmptyList_small___sV8E" id="qa-my-books-empty-list">
+            <h2 class="Typography_margin__1oYQU Typography_h6__XSsmk EmptyList_heading__cM_K0" data-testid="title">
+             Tutaj pojawi się lista Twoich książek
+            </h2>
+            <p class="Typography_margin__1oYQU Typography_body2__xr88K EmptyList_text__bDR8U" data-testid="content">
+             Zaloguj się i zacznij tworzyć ją już teraz.
+            </p>
+            <div class="EmptyList_button__I1KgN">
+             <button class="Button_button__H7pnj Button_primary__36J7U Button_normal__OzyKl" data-testid="login-button" title="Zaloguj">
+              <span class="Button_children___ADUh">
+               <span>
+                Zaloguj
+               </span>
+               <svg height="21px" width="21px">
+                <use href="/_next/static/media/sprite.31fb17cb.svg#back">
+                </use>
+               </svg>
+              </span>
+             </button>
+            </div>
+            <div class="EmptyList_image__2b4ms">
+             <img alt="" data-nimg="1" data-testid="my-book-empty-list-image" decoding="async" height="105" loading="lazy" role="presentation" src="/images-next/placeholders/user-books-placeholder.svg" style="color: transparent;" width="280"/>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </aside>
+      </div>
+     </main>
+     <div class="Layout_footerWrapper__fjWzR">
+      <footer class="Footer_footer__VOif0">
+       <div class="Footer_wrapper__NYMvX">
+        <nav class="Footer_nav__aIZVw">
+         <ul class="Footer_list__Rty7N Footer_listLinks__o6VLr">
+          <li class="Footer_listItem__Blx64">
+           <a href="/regulamin">
+            Regulamin
+           </a>
+          </li>
+          <li class="Footer_listItem__Blx64">
+           <a href="/polityka-prywatnosci" rel="nofollow">
+            Polityka prywatności
+           </a>
+          </li>
+          <li class="Footer_listItem__Blx64">
+           <a href="/ciasteczka" rel="nofollow">
+            Pliki cookies
+           </a>
+          </li>
+          <li class="Footer_listItem__Blx64">
+           <a href="/pomoc">
+            Pomoc
+           </a>
+          </li>
+         </ul>
+         <div class="Footer_externalLinksWrapper__q0Jf1">
+          <ul class="Footer_list__Rty7N Footer_listSocialLinks__fY4xi">
+           <li class="Footer_socialLinkItem__QXHun">
+            <a aria-label="Odrabiamy.pl na Facebooku" href="https://www.facebook.com/Odrabiamypl" rel="noopener noreferrer" target="_blank">
+             <svg height="24" width="24">
+              <use href="/_next/static/media/sprite.31fb17cb.svg#social/facebook-color">
+              </use>
+             </svg>
+            </a>
+           </li>
+           <li class="Footer_socialLinkItem__QXHun">
+            <a aria-label="Odrabiamy.pl na Instagramie" href="https://www.instagram.com/odrabiamy.pl" rel="noopener noreferrer" target="_blank">
+             <img alt="" data-nimg="1" decoding="async" height="24" loading="lazy" src="/_next/image?url=%2Fimages-next%2Ficons%2Fsocial%2Finstagram-color.png&amp;w=48&amp;q=75" srcset="/_next/image?url=%2Fimages-next%2Ficons%2Fsocial%2Finstagram-color.png&amp;w=32&amp;q=75 1x, /_next/image?url=%2Fimages-next%2Ficons%2Fsocial%2Finstagram-color.png&amp;w=48&amp;q=75 2x" style="color:transparent" width="24"/>
+            </a>
+           </li>
+           <li class="Footer_socialLinkItem__QXHun">
+            <a aria-label="Odrabiamy.pl na YouTube" href="https://www.youtube.com/channel/UCGd8omo2yT7qUqT-c4JX9aQ" rel="noopener noreferrer" target="_blank">
+             <svg height="17" width="24">
+              <use href="/_next/static/media/sprite.31fb17cb.svg#social/youtube-color">
+              </use>
+             </svg>
+            </a>
+           </li>
+           <li class="Footer_socialLinkItem__QXHun">
+            <a aria-label="Odrabiamy.pl na LinkedIn" href="https://www.linkedin.com/company/odrabiamy/mycompany/" rel="noopener noreferrer" target="_blank">
+             <svg height="24" width="28">
+              <use href="/_next/static/media/sprite.31fb17cb.svg#social/linkedin-color">
+              </use>
+             </svg>
+            </a>
+           </li>
+          </ul>
+          <ul class="Footer_list__Rty7N Footer_listBadges__W3Omt">
+           <li class="Footer_listItem__Blx64">
+            <a aria-label="Pobierz z App Store" href="https://itunes.apple.com/pl/app/odrabiamy/id1146781202?mt=8" rel="noopener noreferrer" target="_blank">
+             <img alt="Pobierz aplikację mobilną odrabiamy.pl - link do odrabiamy w App Store" height="42" src="/images-next/badges/apple-app-store.svg" width="141"/>
+            </a>
+           </li>
+           <li class="Footer_listItem__Blx64">
+            <a aria-label="Pobierz z Google Play" href="https://play.google.com/store/apps/details?id=com.swmansion.dajspisac&amp;hl=pl&amp;utm_source=global_co&amp;utm_medium=prtnr&amp;utm_content=Mar2515&amp;utm_campaign=PartBadge&amp;pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1" rel="noopener noreferrer" target="_blank">
+             <img alt="Pobierz aplikację mobilną odrabiamy.pl - link do odrabiamy w Google Play" height="42" src="/images-next/badges/google-play.svg" width="141"/>
+            </a>
+           </li>
+          </ul>
+         </div>
+        </nav>
+        <p class="Footer_copy__MrxOD">
+         ©
+         <!-- -->
+         2024
+         <!-- -->
+         <!-- -->
+         Odrabiamy.pl
+        </p>
+       </div>
+      </footer>
+     </div>
+    </div>
+   </div>
+  </div>
+  <script id="__NEXT_DATA__" type="application/json">
+   {"props":{"pageProps":{"swrFallback":{"/api/v3/comments?exercise_id=615468":[{"id":284010,"exerciseId":615468,"highPriority":false,"isQuestion":false,"premium":false,"content":"dzienki rostałem 6\u003cbr\u003e","createdAt":"2019-11-04T19:37:48+01:00","commenter":{"name":"Gość","avatar":"https://odrabiamy.pl/img/odrabiamy-anonim.jpg","voteCount":0,"premium":false},"commentVotesCount":70,"isLikedByYou":false,"parentCommentId":null,"isAnswer":false},{"id":284644,"exerciseId":615468,"highPriority":false,"isQuestion":false,"premium":false,"content":"Dziękuję","createdAt":"2019-11-07T15:33:10+01:00","commenter":{"name":"Samuel Zaniewski","avatar":"https://graph.facebook.com/220007878986532/picture?type=square","voteCount":27,"premium":false},"commentVotesCount":27,"isLikedByYou":false,"parentCommentId":null,"isAnswer":false},{"id":293508,"exerciseId":615468,"highPriority":false,"isQuestion":false,"premium":false,"content":"dziękuje","createdAt":"2020-01-27T20:13:23+01:00","commenter":{"name":"Gość","avatar":"https://odrabiamy.pl/img/odrabiamy-anonim.jpg","voteCount":0,"premium":false},"commentVotesCount":26,"isLikedByYou":false,"parentCommentId":null,"isAnswer":false},{"id":316385,"exerciseId":615468,"highPriority":false,"isQuestion":false,"premium":false,"content":"dzienki","createdAt":"2020-05-01T17:21:37+02:00","commenter":{"name":"jakub.wieczor","avatar":"https://prod.odrabiamy-assets.pl/uploads/user_avatar/avatar/163592/avatar_1659838.jpeg?t=1640792733","voteCount":20,"premium":false},"commentVotesCount":20,"isLikedByYou":false,"parentCommentId":null,"isAnswer":false},{"id":359867,"exerciseId":615468,"highPriority":false,"isQuestion":false,"premium":false,"content":"dzienki","createdAt":"2020-12-14T22:13:50+01:00","commenter":{"name":"maciejgorski7777","avatar":"https://odrabiamy.pl/img/odrabiamy-anonim.jpg","voteCount":17,"premium":false},"commentVotesCount":17,"isLikedByYou":false,"parentCommentId":null,"isAnswer":false},{"id":374492,"exerciseId":615468,"highPriority":false,"isQuestion":false,"premium":false,"content":"dziękuję","createdAt":"2021-03-16T18:19:32+01:00","commenter":{"name":"emiliawell123","avatar":"https://odrabiamy.pl/img/odrabiamy-anonim.jpg","voteCount":9,"premium":false},"commentVotesCount":9,"isLikedByYou":false,"parentCommentId":null,"isAnswer":false},{"id":389660,"exerciseId":615468,"highPriority":false,"isQuestion":false,"premium":false,"content":"dziękuje :)","createdAt":"2021-09-15T16:39:22+02:00","commenter":{"name":"konrad.bieniasz1","avatar":"https://prod.odrabiamy-assets.pl/uploads/default_avatar/image/4/g15.png","voteCount":12,"premium":false},"commentVotesCount":12,"isLikedByYou":false,"parentCommentId":null,"isAnswer":false},{"id":391014,"exerciseId":615468,"highPriority":false,"isQuestion":false,"premium":false,"content":"dziękuje\n","createdAt":"2021-10-04T17:14:59+02:00","commenter":{"name":"kupek","avatar":"https://odrabiamy.pl/img/odrabiamy-anonim.jpg","voteCount":6,"premium":false},"commentVotesCount":6,"isLikedByYou":false,"parentCommentId":null,"isAnswer":false},{"id":391310,"exerciseId":615468,"highPriority":false,"isQuestion":false,"premium":false,"content":"Jak  zawsze super !!!","createdAt":"2021-10-08T19:05:41+02:00","commenter":{"name":"Magdalena Leszniewska","avatar":"https://graph.facebook.com/2921882384516690/picture?type=square","voteCount":16,"premium":false},"commentVotesCount":16,"isLikedByYou":false,"parentCommentId":null,"isAnswer":false},{"id":391560,"exerciseId":615468,"highPriority":false,"isQuestion":false,"premium":false,"content":"Dziękuję\n","createdAt":"2021-10-12T17:33:36+02:00","commenter":{"name":"adamalysz321","avatar":"https://graph.facebook.com/644369215895149/picture?type=square","voteCount":5,"premium":false},"commentVotesCount":4,"isLikedByYou":false,"parentCommentId":null,"isAnswer":false},{"id":392860,"exerciseId":615468,"highPriority":false,"isQuestion":false,"premium":false,"content":"dzięki ❤\n","createdAt":"2021-11-03T16:54:53+01:00","commenter":{"name":"Hubert Karczewski","avatar":"https://graph.facebook.com/795106654665308/picture?type=square","voteCount":10,"premium":false},"commentVotesCount":10,"isLikedByYou":false,"parentCommentId":null,"isAnswer":false},{"id":400527,"exerciseId":615468,"highPriority":false,"isQuestion":false,"premium":false,"content":"Dziękuję dostałam 5+ ","createdAt":"2022-03-07T14:00:02+01:00","commenter":{"name":"Julia Kazimierska","avatar":"https://graph.facebook.com/122584043667018/picture?type=square","voteCount":9,"premium":false},"commentVotesCount":9,"isLikedByYou":false,"parentCommentId":null,"isAnswer":false},{"id":407949,"exerciseId":615468,"highPriority":false,"isQuestion":false,"premium":null,"content":"Dziękuje wam","createdAt":"2022-10-18T14:48:45+02:00","commenter":{"name":"Tomek Budnicki","avatar":"https://graph.facebook.com/585996786587858/picture?type=square","voteCount":5,"premium":false},"commentVotesCount":5,"isLikedByYou":false,"parentCommentId":null,"isAnswer":false},{"id":410609,"exerciseId":615468,"highPriority":false,"isQuestion":false,"premium":null,"content":"Dziękuje \nza odpowiedz","createdAt":"2022-12-30T14:28:34+01:00","commenter":{"name":"Ami Ami","avatar":"https://graph.facebook.com/477459611201713/picture?type=square","voteCount":1,"premium":false},"commentVotesCount":1,"isLikedByYou":false,"parentCommentId":null,"isAnswer":false},{"id":412099,"exerciseId":615468,"highPriority":false,"isQuestion":false,"premium":null,"content":"Dziękuję bardzo","createdAt":"2023-02-14T14:47:08+01:00","commenter":{"name":"Kamila Nowak","avatar":"https://graph.facebook.com/3407949669476161/picture?type=square","voteCount":0,"premium":true},"commentVotesCount":0,"isLikedByYou":false,"parentCommentId":null,"isAnswer":false},{"id":413937,"exerciseId":615468,"highPriority":false,"isQuestion":false,"premium":null,"content":"Dziękuję za zadanie","createdAt":"2023-03-28T14:26:52+02:00","commenter":{"name":"wszurlej","avatar":"https://odrabiamy.pl/img/odrabiamy-anonim.jpg","voteCount":0,"premium":true},"commentVotesCount":0,"isLikedByYou":false,"parentCommentId":null,"isAnswer":false},{"id":414079,"exerciseId":615468,"highPriority":false,"isQuestion":false,"premium":null,"content":"@Gość dziękuje","createdAt":"2023-03-30T17:43:40+02:00","commenter":{"name":"dominikajablonska2013","avatar":"https://odrabiamy.pl/img/odrabiamy-anonim.jpg","voteCount":8,"premium":false},"commentVotesCount":4,"isLikedByYou":false,"parentCommentId":284010,"isAnswer":true},{"id":415709,"exerciseId":615468,"highPriority":false,"isQuestion":false,"premium":null,"content":"Dziękuję dostałam 6","createdAt":"2023-05-14T13:16:36+02:00","commenter":{"name":"lwysocka3008","avatar":"https://odrabiamy.pl/img/odrabiamy-anonim.jpg","voteCount":0,"premium":false},"commentVotesCount":0,"isLikedByYou":false,"parentCommentId":null,"isAnswer":false},{"id":415728,"exerciseId":615468,"highPriority":false,"isQuestion":false,"premium":null,"content":"Dzìęki za super pomoc♡♡♡♡♡♡♡♡♡♡♡♡♡♡","createdAt":"2023-05-14T21:39:30+02:00","commenter":{"name":"weronikaparadyz","avatar":"https://odrabiamy.pl/img/odrabiamy-anonim.jpg","voteCount":1,"premium":false},"commentVotesCount":1,"isLikedByYou":false,"parentCommentId":null,"isAnswer":false},{"id":416186,"exerciseId":615468,"highPriority":false,"isQuestion":false,"premium":null,"content":"super! dziękuje","createdAt":"2023-05-29T13:57:04+02:00","commenter":{"name":"madzik.m92","avatar":"https://prod.odrabiamy-assets.pl/uploads/user_avatar/avatar/568437/avatar_2666478.jpeg?t=1685686461","voteCount":0,"premium":false},"commentVotesCount":0,"isLikedByYou":false,"parentCommentId":null,"isAnswer":false},{"id":416328,"exerciseId":615468,"highPriority":false,"isQuestion":false,"premium":null,"content":"Dziękuję bardzo","createdAt":"2023-06-01T18:25:27+02:00","commenter":{"name":"Kczubernat10","avatar":"https://odrabiamy.pl/img/odrabiamy-anonim.jpg","voteCount":0,"premium":false},"commentVotesCount":0,"isLikedByYou":false,"parentCommentId":null,"isAnswer":false}],"/api/v3/books/11867":{"id":11867,"pages":[10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,53,54,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,99,100,102,103,104,106,107,109,110,111,112,113,116,117,118,119,120,121,123,124,125,126,127,128,129,131,132,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,168,169,170,171,172,173,174,175,176,177,178,179,180,181,183,184,186,187,188,189,190,191,192,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207,208,209,210,211,212,213,214,215,216,217,218,219,221,222,224,225,226,227,228,229,230,231,232,233,234,235,236,237,238,239,240,241,242,243,244,245,246,247,248,249,250,251,252,254,255,256,257,259,260,262,263,264,265,266,267,268,269,270,271,272,273,274,275,276,277],"isbn":"9788326734854","barcodeIsbn":null,"name":"MATeMAtyka 1. Zakres podstawowy","subjectId":1,"announcement":"","hidden":false,"authors":"Wojciech Babiański, Lech Chańko, Karolina Wej","publisher":"Nowa Era","released":2019,"kind":"Podręcznik","lastPage":277,"schools":["Liceum","Technikum","secondary"],"hiddenPages":[],"grades":[{"id":19,"name":"1 szkoły ponadpodstawowej","subjectIds":[1,2,4,3,13,14,18,19,8,7,6,10,9,12,20,24,25],"subjects":["Matematyka","Język polski","Język angielski","Język niemiecki","Język hiszpański","Język rosyjski","Język francuski","Język włoski","Fizyka","Chemia","Historia","Geografia","Biologia","WOS","EDB","BIZ","Filozofia"]},{"id":7,"name":"I liceum","subjectIds":[1,2,4,3,13,14,18,19,8,7,6,10,9,12,20,23],"subjects":["Matematyka","Język polski","Język angielski","Język niemiecki","Język hiszpański","Język rosyjski","Język francuski","Język włoski","Fizyka","Chemia","Historia","Geografia","Biologia","WOS","EDB","Plastyka"]},{"id":13,"name":"I technikum","subjectIds":[1,2,4,3,13,14,18,19,8,7,6,10,9,20,21],"subjects":["Matematyka","Język polski","Język angielski","Język niemiecki","Język hiszpański","Język rosyjski","Język francuski","Język włoski","Fizyka","Chemia","Historia","Geografia","Biologia","EDB","PP"]}]},"/api/v3/books?gradeId=19\u0026subjectId=1":[{"id":14312,"name":"Kurs maturalny z matematyki podstawowej","kind":"Arkusz","hidden":true},{"id":11942,"name":"MATeMAtyka 1. Karty pracy ucznia zakres podstawowy","kind":"Zeszyt ćwiczeń","hidden":false},{"id":12017,"name":"MATeMAtyka 1. Maturalne karty pracy zakres podstawowy i rozszerzony","kind":"Zeszyt ćwiczeń","hidden":false},{"id":11867,"name":"MATeMAtyka 1. Zakres podstawowy","kind":"Podręcznik","hidden":false},{"id":12025,"name":"MATeMAtyka 1. Zakres podstawowy","kind":"Zbiór zadań","hidden":false},{"id":11868,"name":"MATeMAtyka 1. Zakres podstawowy i rozszerzony","kind":"Podręcznik","hidden":false},{"id":12026,"name":"MATeMAtyka 1. Zakres podstawowy i rozszerzony","kind":"Zbiór zadań","hidden":false},{"id":10647,"name":"MATeMAtyka 1. Zakres podstawowy i rozszerzony. Po gimnazjum","kind":"Zeszyt ćwiczeń","hidden":true},{"id":10658,"name":"MATeMAtyka 1. Zakres podstawowy i rozszerzony. Po gimnazjum","kind":"Podręcznik","hidden":true},{"id":10689,"name":"MATeMAtyka 1. Zakres podstawowy i rozszerzony. Po gimnazjum","kind":"Zbiór zadań","hidden":true},{"id":10324,"name":"MATeMAtyka 1. Zakres podstawowy. Po gimnazjum","kind":"Podręcznik","hidden":true},{"id":10630,"name":"MATeMAtyka 1. Zakres podstawowy. Po gimnazjum","kind":"Zeszyt ćwiczeń","hidden":true},{"id":11999,"name":"Matematyka 1. Maturalne karty pracy zakres podstawowy cz. 1","kind":"Zeszyt ćwiczeń","hidden":false},{"id":12363,"name":"Matematyka 1. Maturalne karty pracy zakres podstawowy cz. 2","kind":"Zeszyt ćwiczeń","hidden":false},{"id":12094,"name":"Matematyka 1. Maturalne karty pracy zakres rozszerzony cz. 1","kind":"Zeszyt ćwiczeń","hidden":false},{"id":11684,"name":"Matematyka 1. Poziom podstawowy. Po gimnazjum","kind":"Zbiór zadań","hidden":true},{"id":12091,"name":"Matematyka 1. Szkoła branżowa I stopnia","kind":"Podręcznik","hidden":false},{"id":12119,"name":"Matematyka 1. Szkoła branżowa I stopnia","kind":"Zeszyt ćwiczeń","hidden":false},{"id":11897,"name":"Matematyka 1. Zakres podstawowy","kind":"Podręcznik","hidden":false},{"id":11898,"name":"Matematyka 1. Zakres podstawowy","kind":"Zbiór zadań","hidden":false},{"id":12060,"name":"Matematyka 1. Zakres podstawowy","kind":"Podręcznik","hidden":false},{"id":10315,"name":"Matematyka 1. Zakres podstawowy. Po gimnazjum","kind":"Podręcznik","hidden":true},{"id":11692,"name":"Matematyka 1. Zakres podstawowy. Po gimnazjum","kind":"Podręcznik","hidden":true},{"id":11899,"name":"Matematyka 1. Zakres rozszerzony","kind":"Podręcznik","hidden":false},{"id":11900,"name":"Matematyka 1. Zakres rozszerzony","kind":"Zbiór zadań","hidden":false},{"id":11998,"name":"Matematyka 1. Zakres rozszerzony. Cześć 1","kind":"Podręcznik","hidden":false},{"id":12299,"name":"Matematyka 1. Zakres rozszerzony. Cześć 2","kind":"Podręcznik","hidden":false},{"id":11892,"name":"Matematyka dla zasadniczych szkół zawodowych. Cz. 1","kind":"Podręcznik","hidden":true},{"id":11992,"name":"Matematyka do zasadniczych szkół zawodowych 1","kind":"Podręcznik","hidden":true},{"id":12298,"name":"Matematyka do zasadniczych szkół zawodowych 2","kind":"Podręcznik","hidden":true},{"id":11956,"name":"Matematyka i przykłady jej zastosowań 1. Zakres podstawowy","kind":"Podręcznik","hidden":false},{"id":12844,"name":"Matematyka i przykłady jej zastosowań 1. Zakres podstawowy","kind":"Zbiór zadań","hidden":false},{"id":12044,"name":"Matematyka i przykłady jej zastosowań 1. Zakres podstawowy i rozszerzony","kind":"Podręcznik","hidden":false},{"id":12845,"name":"Matematyka i przykłady jej zastosowań 1. Zakres podstawowy i rozszerzony","kind":"Zbiór zadań","hidden":false},{"id":10351,"name":"Matematyka poznać, zrozumieć 1. Zakres podstawowy. Po gimnazjum","kind":"Podręcznik","hidden":true},{"id":10352,"name":"Matematyka poznać, zrozumieć 1.Zakres podstawowy. Po gimnazjum","kind":"Zbiór zadań","hidden":true},{"id":12057,"name":"Matematyka w szkole branżowej I stopnia. Podręcznik 1","kind":"Podręcznik","hidden":false},{"id":12018,"name":"Matematyka w zasadniczej szkole zawodowej kl. 1 - 3","kind":"Podręcznik","hidden":true},{"id":11810,"name":"Matematyka z plusem 1. Zakres podstawowy","kind":"Podręcznik","hidden":false},{"id":11901,"name":"Matematyka z plusem 1. Zakres podstawowy i rozszerzony","kind":"Zbiór zadań","hidden":false},{"id":11811,"name":"Matematyka z plusem 1. Zakres rozszerzony","kind":"Podręcznik","hidden":false},{"id":12081,"name":"Matematyka z plusem 1. Ćwiczenia podstawowe","kind":"Zeszyt ćwiczeń","hidden":false},{"id":11946,"name":"Prosto do matury 1. Zakres podstawowy","kind":"Podręcznik","hidden":false},{"id":11912,"name":"Prosto do matury 1. Zakres podstawowy i rozszerzony","kind":"Podręcznik","hidden":false},{"id":11908,"name":"To się liczy! 1","kind":"Podręcznik","hidden":false}],"/api/v3/grades":[{"id":25,"name":"1 szkoły podstawowej","number":"1","school":"primary","subjectIds":[11,4],"subjects":["Język angielski","Edukacja wczesnoszkolna"]},{"id":24,"name":"2 szkoły podstawowej","number":"2","school":"primary","subjectIds":[11,4],"subjects":["Język angielski","Edukacja wczesnoszkolna"]},{"id":11,"name":"3 szkoły podstawowej","number":"3","school":"primary","subjectIds":[4,11],"subjects":["Język angielski","Edukacja wczesnoszkolna"]},{"id":1,"name":"4 szkoły podstawowej","number":"4","school":"primary","subjectIds":[1,2,4,3,13,14,6,5,22,17,23],"subjects":["Matematyka","Język polski","Język angielski","Język niemiecki","Język hiszpański","Język rosyjski","Historia","Przyroda","Informatyka","Technika","Plastyka"]},{"id":2,"name":"5 szkoły podstawowej","number":"5","school":"primary","subjectIds":[1,2,4,3,13,14,6,10,9,22,17,23],"subjects":["Matematyka","Język polski","Język angielski","Język niemiecki","Język hiszpański","Język rosyjski","Historia","Geografia","Biologia","Informatyka","Technika","Plastyka"]},{"id":3,"name":"6 szkoły podstawowej","number":"6","school":"primary","subjectIds":[1,2,4,3,13,14,6,10,9,22,17,23],"subjects":["Matematyka","Język polski","Język angielski","Język niemiecki","Język hiszpański","Język rosyjski","Historia","Geografia","Biologia","Informatyka","Technika","Plastyka"]},{"id":10,"name":"7 szkoły podstawowej","number":"7","school":"primary","subjectIds":[1,2,4,3,13,14,18,19,8,7,6,10,9,22,23],"subjects":["Matematyka","Język polski","Język angielski","Język niemiecki","Język hiszpański","Język rosyjski","Język francuski","Język włoski","Fizyka","Chemia","Historia","Geografia","Biologia","Informatyka","Plastyka"]},{"id":12,"name":"8 szkoły podstawowej","number":"8","school":"primary","subjectIds":[1,2,4,3,13,14,18,19,8,7,6,10,9,22,12,20],"subjects":["Matematyka","Język polski","Język angielski","Język niemiecki","Język hiszpański","Język rosyjski","Język francuski","Język włoski","Fizyka","Chemia","Historia","Geografia","Biologia","Informatyka","WOS","EDB"]},{"id":19,"name":"1 szkoły ponadpodstawowej","number":"1","school":"secondary","subjectIds":[1,2,4,3,13,14,18,19,8,7,6,10,9,12,20,24,25],"subjects":["Matematyka","Język polski","Język angielski","Język niemiecki","Język hiszpański","Język rosyjski","Język francuski","Język włoski","Fizyka","Chemia","Historia","Geografia","Biologia","WOS","EDB","BIZ","Filozofia"]},{"id":20,"name":"2 szkoły ponadpodstawowej","number":"2","school":"secondary","subjectIds":[1,2,4,3,13,14,18,19,8,7,6,10,9,12,20],"subjects":["Matematyka","Język polski","Język angielski","Język niemiecki","Język hiszpański","Język rosyjski","Język francuski","Język włoski","Fizyka","Chemia","Historia","Geografia","Biologia","WOS","EDB"]},{"id":21,"name":"3 szkoły ponadpodstawowej","number":"3","school":"secondary","subjectIds":[1,2,4,3,13,14,18,19,8,7,6,10,9,12,20],"subjects":["Matematyka","Język polski","Język angielski","Język niemiecki","Język hiszpański","Język rosyjski","Język francuski","Język włoski","Fizyka","Chemia","Historia","Geografia","Biologia","WOS","EDB"]},{"id":22,"name":"4 szkoły ponadpodstawowej","number":"4","school":"secondary","subjectIds":[1,2,4,3,13,14,18,19,8,7,6,10,9,20],"subjects":["Matematyka","Język polski","Język angielski","Język niemiecki","Język hiszpański","Język rosyjski","Język francuski","Język włoski","Fizyka","Chemia","Historia","Geografia","Biologia","EDB"]},{"id":23,"name":"5 szkoły ponadpodstawowej","number":"5","school":"secondary","subjectIds":[1,2,4,3,13,14,18,19,8,7,6,10,9,22,12],"subjects":["Matematyka","Język polski","Język angielski","Język niemiecki","Język hiszpański","Język rosyjski","Język francuski","Język włoski","Fizyka","Chemia","Historia","Geografia","Biologia","Informatyka","WOS"]}],"/api/v3/products":[{"id":401,"cost":29,"duration":30,"durationValue":1,"durationType":"month","payment":"payu","premiumLevel":"odrabiamy_premium","providerProductId":"","subscription":false},{"id":404,"cost":38,"duration":30,"durationValue":1,"durationType":"month","payment":"dcb","premiumLevel":"odrabiamy_premium","providerProductId":"","subscription":false},{"id":402,"cost":57,"duration":90,"durationValue":3,"durationType":"month","payment":"payu","premiumLevel":"odrabiamy_premium","providerProductId":"","subscription":false},{"id":403,"cost":144,"duration":365,"durationValue":12,"durationType":"month","payment":"payu","premiumLevel":"odrabiamy_premium","providerProductId":"","subscription":false}],"/api/v3/books/11867/pages/10":{"exercises":[{"id":615468,"content":"\u003cp\u003e\u003cstrong\u003ea)\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eDzielniki liczby\u0026nbsp;\u003cstrong\u003e12\u003c/strong\u003e: \u003c/p\u003e\n\u003cp\u003e\u003cspan class=\"katex\"\u003e\u003cspan class=\"katex-html\" aria-hidden=\"true\"\u003e\u003cspan class=\"base\"\u003e\u003cspan class=\"strut\" style=\"height:0.8389em;vertical-align:-0.1944em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e1\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mpunct\"\u003e,\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e2\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mpunct\"\u003e,\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e3\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mpunct\"\u003e,\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e4\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mpunct\"\u003e,\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e6\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mpunct\"\u003e,\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e12\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e\n\u003chr\u003e\n\u003cp\u003e\u003cstrong\u003eb)\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eDzielniki liczby\u0026nbsp;\u003cstrong\u003e28\u003c/strong\u003e:\u003c/p\u003e\n\u003cp\u003e\u003cspan class=\"katex\"\u003e\u003cspan class=\"katex-html\" aria-hidden=\"true\"\u003e\u003cspan class=\"base\"\u003e\u003cspan class=\"strut\" style=\"height:0.8389em;vertical-align:-0.1944em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e1\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mpunct\"\u003e,\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e2\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mpunct\"\u003e,\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e4\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mpunct\"\u003e,\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e7\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mpunct\"\u003e,\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e14\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mpunct\"\u003e,\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e28\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e\n\u003chr\u003e\n\u003cp\u003e\u003cstrong\u003ec)\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eDzielniki liczby \u003cstrong\u003e36\u003c/strong\u003e:\u003c/p\u003e\n\u003cp\u003e\u003cspan class=\"katex\"\u003e\u003cspan class=\"katex-html\" aria-hidden=\"true\"\u003e\u003cspan class=\"base\"\u003e\u003cspan class=\"strut\" style=\"height:0.8389em;vertical-align:-0.1944em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e1\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mpunct\"\u003e,\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e2\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mpunct\"\u003e,\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e3\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mpunct\"\u003e,\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e4\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mpunct\"\u003e,\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e6\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mpunct\"\u003e,\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e9\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mpunct\"\u003e,\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e12\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mpunct\"\u003e,\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e18\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mpunct\"\u003e,\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e36\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e\n\u003chr\u003e\n\u003cp\u003e\u003cstrong\u003ed)\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eDzielniki liczby\u0026nbsp;\u003cstrong\u003e48\u003c/strong\u003e:\u003c/p\u003e\n\u003cp\u003e\u003cspan class=\"katex\"\u003e\u003cspan class=\"katex-html\" aria-hidden=\"true\"\u003e\u003cspan class=\"base\"\u003e\u003cspan class=\"strut\" style=\"height:0.8389em;vertical-align:-0.1944em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e1\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mpunct\"\u003e,\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e2\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mpunct\"\u003e,\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e3\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mpunct\"\u003e,\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e4\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mpunct\"\u003e,\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e6\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e8\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mpunct\"\u003e,\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e12\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mpunct\"\u003e,\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e16\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mpunct\"\u003e,\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e24\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mpunct\"\u003e,\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e48\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e","number":"Ćwiczenie 1","exerciseType":"","premium":false,"individual":false,"hidden":false,"page":10,"limitedAccess":false,"schools":["Liceum","Technikum","secondary"],"videos":[],"author":{"name":"Magda","id":61,"title":"Nauczyciel","about":"Nauczycielka matematyki z kilkuletnim doświadczeniem. W wolnym czasie uwielbiam podróżować oraz czytać książki o tematyce kryminalnej.","avatarUrl":"https://prod.odrabiamy-assets.pl/uploads/author/avatar/61/image__1_.jpg","gender":2,"authorVotesCount":169162},"solutions":[{"id":598914,"name":"Rozwiązanie 1","content":"\u003cp\u003e\u003cstrong\u003ea)\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eDzielniki liczby\u0026nbsp;\u003cstrong\u003e12\u003c/strong\u003e: \u003c/p\u003e\n\u003cp\u003e\u003cspan class=\"katex\"\u003e\u003cspan class=\"katex-html\" aria-hidden=\"true\"\u003e\u003cspan class=\"base\"\u003e\u003cspan class=\"strut\" style=\"height:0.8389em;vertical-align:-0.1944em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e1\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mpunct\"\u003e,\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e2\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mpunct\"\u003e,\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e3\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mpunct\"\u003e,\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e4\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mpunct\"\u003e,\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e6\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mpunct\"\u003e,\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e12\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e\n\u003chr\u003e\n\u003cp\u003e\u003cstrong\u003eb)\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eDzielniki liczby\u0026nbsp;\u003cstrong\u003e28\u003c/strong\u003e:\u003c/p\u003e\n\u003cp\u003e\u003cspan class=\"katex\"\u003e\u003cspan class=\"katex-html\" aria-hidden=\"true\"\u003e\u003cspan class=\"base\"\u003e\u003cspan class=\"strut\" style=\"height:0.8389em;vertical-align:-0.1944em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e1\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mpunct\"\u003e,\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e2\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mpunct\"\u003e,\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e4\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mpunct\"\u003e,\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e7\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mpunct\"\u003e,\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e14\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mpunct\"\u003e,\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e28\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e\n\u003chr\u003e\n\u003cp\u003e\u003cstrong\u003ec)\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eDzielniki liczby \u003cstrong\u003e36\u003c/strong\u003e:\u003c/p\u003e\n\u003cp\u003e\u003cspan class=\"katex\"\u003e\u003cspan class=\"katex-html\" aria-hidden=\"true\"\u003e\u003cspan class=\"base\"\u003e\u003cspan class=\"strut\" style=\"height:0.8389em;vertical-align:-0.1944em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e1\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mpunct\"\u003e,\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e2\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mpunct\"\u003e,\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e3\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mpunct\"\u003e,\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e4\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mpunct\"\u003e,\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e6\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mpunct\"\u003e,\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e9\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mpunct\"\u003e,\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e12\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mpunct\"\u003e,\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e18\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mpunct\"\u003e,\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e36\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e\n\u003chr\u003e\n\u003cp\u003e\u003cstrong\u003ed)\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003eDzielniki liczby\u0026nbsp;\u003cstrong\u003e48\u003c/strong\u003e:\u003c/p\u003e\n\u003cp\u003e\u003cspan class=\"katex\"\u003e\u003cspan class=\"katex-html\" aria-hidden=\"true\"\u003e\u003cspan class=\"base\"\u003e\u003cspan class=\"strut\" style=\"height:0.8389em;vertical-align:-0.1944em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e1\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mpunct\"\u003e,\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e2\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mpunct\"\u003e,\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e3\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mpunct\"\u003e,\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e4\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mpunct\"\u003e,\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e6\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e8\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mpunct\"\u003e,\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e12\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mpunct\"\u003e,\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e16\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mpunct\"\u003e,\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e24\u003c/span\u003e\u003cspan class=\"mord\"\u003e\u003cspan class=\"mpunct\"\u003e,\u003c/span\u003e\u003c/span\u003e\u003cspan class=\"mspace\" style=\"margin-right:0.2778em;\"\u003e\u003c/span\u003e\u003cspan class=\"mord\"\u003e48\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e","author":{"name":"Magda","id":61,"title":"Nauczyciel","about":"Nauczycielka matematyki z kilkuletnim doświadczeniem. W wolnym czasie uwielbiam podróżować oraz czytać książki o tematyce kryminalnej.","avatarUrl":"https://prod.odrabiamy-assets.pl/uploads/author/avatar/61/image__1_.jpg","gender":2,"authorVotesCount":169162},"aiShortenable":false,"upVotes":848,"voted":null}],"seo":{"voteCount":1051,"updatedAt":"2023-05-31T17:04:31+02:00","name":"Wymień dzielniki liczby:"},"voteAvg":4,"exerciseCategory":"normal","mathImages":[]}]},"/api/v3/subjects":[{"id":1,"name":"Matematyka","position":1},{"id":2,"name":"Język polski","position":2},{"id":4,"name":"Język angielski","position":3},{"id":3,"name":"Język niemiecki","position":4},{"id":13,"name":"Język hiszpański","position":5},{"id":14,"name":"Język rosyjski","position":6},{"id":18,"name":"Język francuski","position":7},{"id":19,"name":"Język włoski","position":8},{"id":8,"name":"Fizyka","position":9},{"id":7,"name":"Chemia","position":10},{"id":6,"name":"Historia","position":11},{"id":10,"name":"Geografia","position":12},{"id":9,"name":"Biologia","position":13},{"id":5,"name":"Przyroda","position":14},{"id":11,"name":"Edukacja wczesnoszkolna","position":15},{"id":22,"name":"Informatyka","position":16},{"id":17,"name":"Technika","position":17},{"id":12,"name":"WOS","position":18},{"id":20,"name":"EDB","position":19},{"id":23,"name":"Plastyka","position":21},{"id":24,"name":"BIZ","position":22},{"id":25,"name":"Filozofia","position":23}],"/api/v3/vote_reasons":{"voteReasons":["incomprehensible","typo","location_error","display_error","book_error"]}},"_nextI18Next":{"initialI18nStore":{"pl":{"exercises":{"exerciseTypes":{"individual":"Indywidualne","hidden":"Ukryte"},"authorCard":{"title":"Autor rozwiązania","expandLabel":"Rozwiń profil autora","thankLabel":"Podziękuj autorowi","avatar":{"alt":"Avatar autora"},"buttons":{"thanks":{"voted":"Podziękowałeś autorowi","notVoted":"Podziękuj"},"sendMessage":"Napisz do mnie!"},"modal":{"title":"Wyślij wiadomość","concerns":"Dotyczy:","messageSubject":"Zad. {{number}}, str. {{page}}, {{bookTitle}}","form":{"placeholder":{"yourMessage":"Twoja wiadomość","messageSent":"Wiadomość została wysłana","sendingMessage":"Wysyłanie...","somethingWentWrong":"Coś poszło nie tak"}}},"teacher":{"male":"Nauczyciel","female":"Nauczycielka"}},"screenshotModal":{"title":"Wykryliśmy zakazane utrwalanie treści","message":["Na Twoim koncie zarejestrowaliśmy wykonywanie zrzutów ekranu. Pamiętaj, że treści w serwisie Odrabiamy są objęte prawem autorskim i ich \u003cstrong\u003eutrwalanie i rozpowszechnianie jest niezgodne z regulaminem.\u003c/strong\u003e","Dalsze nieprzestrzeganie regulaminu może prowadzić do \u003cstrong\u003eczasowej lub trwałej blokady konta, a nawet nieść za sobą konsekwencje prawne.\u003c/strong\u003e","\u003cstrong\u003ePrzestrzegaj regulaminu, nie rejestruj treści!\u003c/strong\u003e"],"closeButton":"Zamknij","accept":"Rozumiem"},"blockade":{"title":"Twój dostęp Premium został chwilowo zablokowany.","tagline":"Zadanie niedostępne","header":"Twój dostęp Premium został chwilowo zablokowany.","messages":{"admin":"W związku z rażącym naruszaniem regulaminu naszego serwisu Twój dostęp Premium został zablokowany na 72 godziny.","screen_blocked":"Twoje konto zostało zablokowane z powodu ponownego wykrycia nieuprawnionego utrwalania treści znajdującej się na naszej stronie (rejestrowanie zawartości ekranu). Aby uniknąć podobnych sytuacji w przyszłości, przypominamy, że każde rozwiązanie objęte jest prawem autorskim, a ich utrwalanie jest zakazane. Jeśli sytuacja będzie się powtarzać, Twoje Premium może zostać zablokowane na stałe. Możliwość dalszego wyświetlania treści zostanie wznowiona o północy.","session_blocked":"Wykryto logowanie z wielu urządzeń","abuse_blocked":"Dziś rozwiązałeś z nami już 60 zadań, przez co osiągnięty został dzienny limit przeglądanych rozwiązań. Możliwość dalszego wyświetlania treści zostanie wznowiona o północy","fallback":"Kod przyczyny: {{reason}}."},"removable":{"browsing_warning":{"title":"Zbliżasz się do dziennego limitu zadań","tagline":"Dzienny limit zadań","message":"Drogi użytkowniku, aby zapewnić ciągłość działania naszych serwerów, musieliśmy ograniczyć liczbę przeglądanych zadań do 60 dziennie. Rozwiązałeś już z nami 45 zadań, do osiągnięcia dziennego limitu pozostało Ci 15 zadań.","reminder":"Pamiętaj, że stronę najłatwiej jest wybrać, rozwijając listę stron. Przeskakiwanie po stronach wyczerpuje limit, który możesz wykorzystać na wyświetlanie rozwiązań, których faktycznie potrzebujesz."},"screen_shot_warning":{"title":"Konto zostało zablokowane!","message":"Nasz system wykrył \u003cstrong\u003enieuprawnione utrwalania zadań\u003c/strong\u003e. Pamiętaj, że wszystkie treści na stronie objęte są prawem autorskim i ich \u003cstrong\u003eutrwalanie jest zabronione\u003c/strong\u003e. Jeśli sytuacja powtórzy się, Twoje konto zostanie \u003cstrong\u003eczasowo zablokowane\u003c/strong\u003e. Aby dalej przeglądać rozwiązania, kliknij poniżej."},"session_limit_warning":{"title":"Wielokrotne logowanie","message":"Nasz system informatyczny wykrył \u003cstrong\u003ewielokrotne logowania\u003c/strong\u003e na Twoje konto z \u003cstrong\u003eróżnych urządzeń\u003c/strong\u003e. Prawdopodobnie używa go ktoś poza Tobą. Pamiętaj, że \u003cstrong\u003ezgodnie z regulaminem serwisu z jednego konta może korzystać jedna osoba\u003c/strong\u003e. Rozumie się przez to logowanie z \u003cstrong\u003emaksymalnie jednego komputera i jednego telefonu dziennie\u003c/strong\u003e. Dzienny limit urządzeń zeruje się o \u003cstrong\u003epółnocy\u003c/strong\u003e. Jeżeli sytuacja będzie się powtarzać, \u003cstrong\u003eTwój dostęp Premium zostanie zablokowany\u003c/strong\u003e."}}},"bookCard":{"title":"Informacje o książce","info":{"publisher":"Wydawnictwo","publishedYear":"Rok wydania","authors":"Autorzy","isbn":"ISBN"}},"booksNav":{"grade":"Klasa","subject":"Przedmiot","book":"Wybierz książkę"},"comments":{"title":"Komentarze","form":{"placeholder":{"commentingBlocked":"Dodawanie komentarzy zostało zablokowane","admin":"Dodawanie komentarzy zostało zablokowane","screenBlocked":"Dodawanie komentarzy zostało zablokowane","sessionBlocked":"Dodawanie komentarzy zostało zablokowane","abuseBlocked":"Dodawanie komentarzy zostało zablokowane","sharedSession":"Dodawanie komentarzy zostało zablokowane","hiddenBookExercise":"Nie możesz komentować zadań ze starych wydań książek","individualExercise":"Nie możesz komentować zadań indywidualnych","noActiveSubscription":"Wykup premium, aby skomentować to zadanie","wrongPremium":"Wykup poprawny dostęp premium, aby skomentować to zadanie","loginToComment":"Zaloguj się, aby skomentować zadanie","leaveComment":"Należy wpisać min. {{minLength}} znaków.","commentAdded":"Komentarz został dodany, czeka na zaakceptowanie","sendingComment":"Wysyłanie...","somethingWentWrong":"Coś poszło nie tak"}},"premiumOverlay":"Odpowiedź widoczna tylko dla użytkowników \u003c1\u003ePremium\u003c/1\u003e","avatar":{"alt":"Avatar komentatora"}},"individualOverlay":{"title":"Tego typu zadań aktualnie nie rozwiązujemy.","tagline":"Zadanie indywidualne","content":["To zadanie musi być rozwiązane indywidualnie przez każdego ucznia.","\u003cstrong\u003eMoże wymagać:\u003c/strong\u003e","- odniesienia się do indywidualnych doświadczeń\n- pracy w grupie\n- pracy na lekcji","\u003cstrong\u003eW ten sposób oznaczamy również zadania:\u003c/strong\u003e","- do całości lektur\n- do treści filmów i spektakli\n- dotyczące wykonania piosenek."]},"pageInProgressOverlay":{"title":"Książka częściowo rozwiązana","firstParagraph":"Jest ona rozwiązana w \u003cstrong\u003e{{ percentage }}\u003c/strong\u003e co odpowiada materiałowi, który jest przerabiany w tym miesiącu roku szkolnego, zgodnie z \u003cstrong\u003eprogramem nauczania MEiN.\u003c/strong\u003e","secondParagraph":"Nasi nauczyciele dokładają wszelkich starań, żeby nawet książki nowe jak ta, były rozwiązywane zgodnie z biegiem programu nauczania."},"exerciseInProgressOverlay":{"title":"Pracujemy nad tym zadaniem","tagline":"Zadanie chwilowo niedostępne","content":["To zadanie jest obecnie w trakcie rozwiązywania przez naszych nauczycieli.","\u003cstrong\u003eKiedy będzie gotowe?\u003c/strong\u003e","Zadanie zostanie opublikowane w ciągu kilku dni roboczych.","\u003cstrong\u003eCo możesz zrobić?\u003c/strong\u003e","Jeśli potrzebujesz pomocy, odwiedź naszą sekcję „Tablica” i zobacz, czy podobne zadanie nie zostało już rozwiązane. Możesz też przejść do zakładki „AI” i zadać pytanie do asystenta AI, który udzieli Ci natychmiastowej odpowiedzi."]},"pageSelect":{"page":"Strona","more":"Więcej"},"rating":{"exercise":{"text":"Oceń to zadanie:"},"average":"Średnia:"},"select":{"noOptions":"Brak wyników"},"seoTags":{"exercise":{"book":"- Zadanie {{number}}: {{name}} - strona {{page}}","descriptionLong":"Rozwiązanie zadania {{ number }} z książki {{name}} opracowane przez nauczycieli serwisu Odrabiamy.pl","descriptionShort":"Odpowiedź na zadanie z {{name}}"}},"errorBar":{"title":"Przepraszamy, wystąpił błąd podczas pobierania treści Premium","explanation":"Spróbuj ponownie później lub skontaktuj się z działem obsługi: \u003cmailLink\u003ekontakt@odrabiamy.pl\u003c/mailLink\u003e."},"solutionsSelector":{"header":"Rozwiązanie","tags":{"alternative":"Wybierz dowolne rozwiązanie","contextual":"Wybierz jedno rozwiązanie"},"extraSelector":"pracujemy nad tym...","tagLabel":"Wybierz rozwiązanie"},"shortenSolution":{"shortenSolution":"Uprość rozwiązanie z AI","shortenAgain":"Uprość ponownie","shortenedSolution":"Uproszczone rozwiązanie","checkAiAssistant":"Kliknij \u003caiAssistantLink\u003etutaj\u003c/aiAssistantLink\u003e i sprawdź naszego asystenta AI 🤖, który odpowie na każde Twoje pytanie!","somethingWentWrong":"Wystąpił błąd, spróbuj ponownie później."},"solutionVote":{"title":"Czy to rozwiązanie było pomocne?","success":"Dziękujemy za Twoją opinię!","error":"Nie udało się przesłać Twojej opinii. Spróbuj ponownie.","premiumError":"Dodawanie opinii dostępne dla użytkowników Premium","thumbUpLabel":"Tak","thumbDownLabel":"Nie","modal":{"heading":"Wybierz powód Twojej opinii","description":"Możesz wybrać kilka odpowiedzi.","sendButton":"Wyślij opinię","incomprehensible":"nie rozumiem rozwiązania","typo":"błąd lub literówka w rozwiązaniu","location_error":"prezentowane rozwiązanie nie dotyczy mojej osoby lub mojego otoczenia (regionu / miasta)","display_error":"rozwiązanie nie wyświetla się poprawnie","book_error":"prezentowane zadanie nie pochodzi z tej książki lub błędna numeracja"}}},"ai":{"meetAiAssistant":{"title":"Poznaj asystenta AI","infoText":"Napisz do naszego wirtualnego asystenta, który pomoże Ci znaleźć odpowiedź na pytanie.","openChat":"Otwórz czat"},"aiView":{"title":"AI w odpowiedzi na pytania użytkowników Odrabiamy","description":"AI z pomocą dla Odrabiamy - zapomnij o długich poszukiwaniach odpowiedzi zadań domowych. Poznaj odpowiedzi na pytania szkolne szybko i bez oczekiwania.","header":"Znajdź \u003c1\u003enatychmiastową odpowiedź\u003c/1\u003e na pytanie","conversationHeader":"Asystent AI","navNewQuestionButton":"Nowe pytanie","navHistoryButton":"Wróć do historii","conversationList":{"header":"Wątki","today":"Dzisiaj","yesterday":"Wczoraj","thisMonth":"Ten miesiąc","newThread":"Nowy wątek","newQuestion":"Nowe pytanie","info":{"title":"Poznaj asystenta AI","infoText":"Napisz do naszego wirtualnego asystenta, który pomoże Ci znaleźć odpowiedź na pytanie."}}}},"common":{"alert":"UWAGA!","socialMedia":{"facebook":{"label":"Odrabiamy.pl na Facebooku"},"linkedin":{"label":"Odrabiamy.pl na LinkedIn"},"instagram":{"label":"Odrabiamy.pl na Instagramie"},"youtube":{"label":"Odrabiamy.pl na YouTube"}},"app":{"appStore":{"label":"Pobierz z App Store","imageAlt":"Pobierz aplikację mobilną odrabiamy.pl - link do odrabiamy w App Store"},"googlePlay":{"label":"Pobierz z Google Play","imageAlt":"Pobierz aplikację mobilną odrabiamy.pl - link do odrabiamy w Google Play"}},"footer":{"link":{"odrabiamy":{"termsAndConditions":"Regulamin","gdpr":"Polityka prywatności","cookies":"Pliki cookies","help":"Pomoc"}},"copy":"Odrabiamy.pl"},"mainHeader":{"link":{"books":"Książki","qa":"Tablica","ai":"AI","premium":"Premium","blog":"Blog","courses":"Kursy"},"button":{"signIn":{"label":"Zaloguj","signedInMobileLabel":"Konto"},"signUp":{"label":"Zarejestruj"}},"drawer":{"label":"Konto","closeButtonLabel":"Zamknij"},"logoAlt":"Logotyp strony głównej odrabiamy.pl - odrabiamy zadania razem","logoLabel":"Strona główna","coursesTooltip":"Sprawdź nową\nzakładkę z kursami"},"profileMenu":{"link":{"blog":"Blog","messages":"Wiadomości","myQa":"Moje Q\u0026A","premium":"Premium","myPremium":"Moje Premium","userOrdersHistory":"Historia dostępów","settings":"Ustawienia","help":"Pomoc","signout":"Wyloguj"},"premium":{"yes":"Premium","no":"Brak premium"}},"cookiesBanner":{"heading":"Dbamy o Twoją prywatność","texts":["Jesteśmy Makalu Media Sp. z o.o. Sp.k. Stosujemy pliki cookies w celu zapewnienia prawidłowego funkcjonowania Serwisu oraz w celach analitycznych.","Dowiedz się więcej w naszej Polityce cookies. Klikając przycisk „Akceptuję wszystkie pliki cookies”, wyrazisz zgodę na używanie analitycznych plików cookies na Twoim urządzeniu i związane z tym przetwarzanie danych osobowych.","Jeżeli klikniesz przycisk „Odrzucam opcjonalne pliki cookies”, na Twoim urządzeniu zainstalujemy wyłącznie pliki cookies niezbędne do prawidłowego funkcjonowania Serwisu."],"button":{"accept":"Akceptuję wszystkie pliki cookies","decline":"Odrzucam opcjonalne pliki cookies"}},"submitButton":{"idle":"Wyślij","pending":"Wysyłanie","rejected":"Coś poszło nie tak","fulfilled":"Wysłano"},"userBooks":{"title":"Moje książki","goToBooks":"Przejdź do listy Moich książek","emptyBooks":{"header":"Tutaj pojawi się lista Twoich książek","content":{"user":"Zacznij tworzyć ją już teraz, dodając pierwszą książkę do listy.","guest":"Zaloguj się i zacznij tworzyć ją już teraz."},"button":{"user":"Dodaj","guest":"Zaloguj"}}},"bookActions":{"dislikeBookConfirm":"Czy chcesz usunąć tę książkę z Moich książek?","dislikeBookConfirmButton":"Tak","bookRemoved":"Książka została usunięta.","bookAdded":"Dodałeś książkę do Moich książek.","showBook":"Idź do listy","logInToAdd":"Zaloguj się, aby dodać książkę do Moich książek.","logIn":"Zaloguj","bookAddFailed":"Nie udało się dodać książki. Spróbuj ponownie.","bookDeleteFailed":"Nie udało się usunąć książki. Spróbuj ponownie.","openAndAdd":"Otwórz i dodaj do Moich książek","open":"Otwórz","add":"Dodaj do Moich książek","removeBook":"Usuń z Moich książek","remove":"Usuń"},"placeholders":{"paywall":{"info":"Treść dostępna dla Użytkowników z aktywnym Premium","heading":"Odrabiamy Premium","price":"od \u003c1\u003e{{ price }}\u003c/1\u003e \u003c2\u003ezł\u003c/2\u003e","button":{"activate":"Rozpocznij Premium"},"benefits":["\u003cstrong\u003eopracowania zadań\u003c/strong\u003e z podręczników szkolnych, zeszytów ćwiczeń, repetytoriów","\u003cstrong\u003eegzaminy ósmoklasisty i arkusze maturalne\u003c/strong\u003e z objaśnieniami od nauczycieli","tablica z \u003cstrong\u003edodatkowymi zadaniami\u003c/strong\u003e rozwiązanymi przez nauczycieli","\u003cstrong\u003enatychmiastowa odpowiedź\u003c/strong\u003e na każde pytanie dzięki AI"]},"guest":{"login":"Zaloguj się"},"blockade":{"heading":"Twój dostęp został chwilowo zablokowany","content":"W związku z rażącym naruszeniem regulaminu naszego serwisu Twój dostęp Premium został zablokowany. Więcej informacji odnośnie blokady znajdziesz w wiadomościach."},"wrongPremium":{"purchaseBlockade":{"currentAccess":"Twój aktualny dostęp","moreInfoAboutPremium":"Więcej informacji o dostępie znajdziesz w zakładce Moje Premium.","returnHome":"Przejdź do strony głównej","returnToMyPremium":"Przejdź do Moje Premium"}},"activePremiumCard":{"heading":"Odrabiamy Premium","premiumLevel":{"primary":"Szkoła podstawowa","secondary":"Szkoła ponadpodstawowa","organization":"Odrabiamy Premium - Pełny dostęp","all_legacy":"Odrabiamy Premium - Pełny dostęp","all_legacy_with_huawei":"Odrabiamy Premium - Pełny dostęp","odrabiamy_premium":"Odrabiamy Premium"},"status":{"active":"Aktywny"},"subscriptionDetails":{"title":"Rodzaj subskrypcji:","duration":{"30":"Miesięczna","90":"Trzymiesięczna","365":"Roczna"}},"time":{"single":"Czas do końca:","endless":"Bezterminowo"},"date":{"single":"Data zakończenia:","endless":"-"},"account":"Konto:"},"userOffences":{"shared_session":{"warning":{"title":"Wyloguj się z nadmiarowych urządzeń, aby uniknąć blokady","content":"Pamiętaj, że z konta Premium Odrabiamy.pl możesz korzystać na \u003cstrong\u003e2 urządzeniach\u003c/strong\u003e. Wyloguj się z pozostałych urządzeń. W innym przypadku system nałoży blokadę dostępu do treści Premium.\n\nKomunikat został wyświetlony automatycznie i będzie widoczny do {{expireDate, datetime}}, godz. {{expireHour, datetime}}."},"blockade":{"title":"Dostęp do treści Premium został tymczasowo zablokowany","content":"Według Regulaminu Odrabiamy.pl z konta Premium \u003cstrong\u003emożesz korzystać na 2 urządzeniach\u003c/strong\u003e. Nasz system wykrył logowanie do Twojego konta Premium na więcej niż 2 urządzeniach. Z tego powodu dostęp do treści Premium został zablokowany do \u003cstrong\u003e{{expireDate, datetime}}, godz. {{expireHour, datetime}}.\u003c/strong\u003e\n\nWięcej informacji znajdziesz w naszym \u003ctermsOfServiceLink\u003eregulaminie\u003c/termsOfServiceLink\u003e."}}}},"buttons":{"close":"Zamknij","login":"Zaloguj","showMore":"Pokaż więcej...","showMoreResults":"Pokaż więcej","seeMoreResults":"Zobacz więcej","choosePremium":"Wybierz Premium","myPremium":"Przejdź do Moje Premium","scrollToTop":"Do góry","copyToClipboard":{"copy":"Kopiuj","copied":"Skopiowano"}},"authorMessageModal":{"writeToAuthor":"Napisz wiadomość do autora rozwiązania","closeIcon":"Zamknij","authorMessageTopic":"Dotyczy: ","sendMessageToAuthor":{"closeIconLabel":"Usuń treść","placeholder":"Twoja wiadomość","label":"Twoja wiadomość","submitButton":{"idle":"Wyślij","pending":"Wysyłanie..."},"cancelButton":"Anuluj","validationMessages":{"question":{"tooShort":"Wiadomość musi składać się z przynajmniej {{ count }} znaków","tooLong":"Wiadomość nie może mieć więcej niż {{ count }} znaków"},"empty":"Pole nie może być puste"},"errorMessages":{"requestFailed":"Wysyłanie wiadomości nie powiodło się. Spróbuj ponownie.","noAuthor":"Nie można wysłać wiadomości do autora."}}},"school":{"primary":"Szkoła podstawowa","secondary":"Szkoła ponadpodstawowa","gymnasium":"Gimnazjum"},"notifications":{"scanner":{"error":{"camera":{"notAllowedError":"Brak uprawnień do użycia aparatu.","notFoundError":"Nie znaleźliśmy aparatu w Twoim urządzeniu.","notReadableError":"Wystąpił problem z aparatem. Sprawdź swoje urządzenie.","overconstrainedError":"Nie znaleźliśmy odpowiedniego aparatu w Twoim urządzeniu."},"unknown":"Wystąpił błąd. Proszę spróbować później.","noResults":"Nie opracowaliśmy jeszcze tej książki. Spróbuj wyszukać inną.","notBook":"To nie jest książka. Zeskanuj kod kreskowy książki."},"message":{"tutorial":"Nakieruj aparat na kod kreskowy książki.","allowCamera":"Zezwól na korzystanie z aparatu.","searching":"Szukam..."}},"authorCard":{"messageSent":"Twoja wiadomość została wysłana.","loginToSendMessage":"Zaloguj się, aby wysłać wiadomość.","buyPremiumToSend":"Aktywuj Premium, aby wysłać wiadomość.","blockedAccount":"Twoje konto jest zablokowane, nie możesz teraz wysłać wiadomości.","warnedAccount":"Aby wysłać wiadomość, zaakceptuj ostrzeżenie o możliwej blokadzie konta.","wrongPremium":"Twój dostęp premium nie uprawnia Cię do utworzenia tej wiadomości."},"singleQa":{"loginToLike":"Zaloguj się, aby polubić odpowiedź."},"askQuestion":{"requestFailed":"Nie udało się wysłać Twojego pytania. Spróbuj ponownie."},"rodo":{"revoke":{"success":"Zgoda na przechowywanie wszystkich plików cookies została anulowana.","error":"Nie udało się anulować zgody na przechowywanie wszystkich plików cookies. Spróbuj ponownie."},"grant":{"success":"Zgoda na przechowywanie wszystkich plików cookies została zaakceptowana.","error":"Nie udało się zaakceptować zgody na przechowywanie wszystkich plików cookies. Spróbuj ponownie."}},"previewMode":{"info":"Strona jest wyświetlana w trybie preview.","exitButton":"Wyjdź z trybu preview"}},"labels":{"videolesson":"Wideolekcja","matura":"Matura"},"price":"{{val, currency(PLN)}}","error":{"404":{"apologies":"Przykro nam... 🙁","content":["Czegoś takiego jeszcze nie rozwiązaliśmy.","Przejdź na \u003chome\u003estronę główną\u003c/home\u003e.","\u003cbold\u003e#error404\u003c/bold\u003e"]},"500":{"apologies":"Przepraszamy, nasz serwer zgłosił nieprzygotowanie 🙁","content":["Pracujemy nad jego zachowaniem. W międzyczasie możesz:","\u003clist\u003e\u003cit\u003eodświeżyć stronę,\u003c/it\u003e\u003cit\u003eprzejść na \u003chome\u003estronę główną\u003c/home\u003e.\u003c/it\u003e\u003c/list\u003e","Możesz też spróbować wejść na stronę później.","\u003cbold\u003e#error500\u003c/bold\u003e"]},"browser":{"apologies":"Przepraszamy, nasza aplikacja zgłosiła nieprzygotowanie 🙁","content":["Pracujemy nad jej zachowaniem. W międzyczasie możesz:","\u003clist\u003e\u003cit\u003eodświeżyć stronę,\u003c/it\u003e\u003cit\u003eprzejść na \u003chome\u003estronę główną\u003c/home\u003e.\u003c/it\u003e\u003c/list\u003e","Możesz też spróbować wejść na stronę później.","\u003cbold\u003e#error\u003c/bold\u003e"]}},"subjects":{"genitives":{"matematyka":"matematyki","jezyk-polski":"języka polskiego","jezyk-angielski":"języka angielskiego","jezyk-niemiecki":"języka niemieckiego","historia":"historii","fizyka":"fizyki","chemia":"chemii","geografia":"geografii","biologia":"biologii","wos":"WOS-u","jezyk-hiszpanski":"języka hiszpańskiego","jezyk-rosyjski":"języka rosyjskiego","jezyk-francuski":"języka francuskiego","jezyk-wloski":"języka włoskiego","przyroda":"przyrody","edukacja-wczesnoszkolna":"edukacji wczesnoszkolnej","informatyka":"informatyki","technika":"techniki","edb":"EDB","biz":"BIZ-u","plastyka":"plastyki","filozofia":"filozofii"}},"learnestPromotion":{"title":"Ucz się poprzez wideo","description":"Zdobądź solidne przygotowanie i pewność siebie na egzaminie już teraz!","button":"Poznaj nasze kursy"},"timePeriod":{"day_zero":"dni","day_one":"dzień","day_few":"dni","day_many":"dni","month_zero":"miesięcy","month_one":"miesiąc","month_few":"miesiące","month_many":"miesięcy"},"ai":{"aiAssistantModal":{"header":"Zadaj pytanie Odrabiamy AI","footer":"AI może popełniać błędy. Pamiętaj, aby sprawdzać istotne informacje.","send":"Wyślij","closeChat":"Zamknij czat","inputPlaceholder":"Napisz swoją wiadomość","closeIconLabel":"Wyczyść pole","genericError":"Wystąpił błąd. Spróbuj ponownie później.","welcome":"👋 Cześć! Skorzystaj z naszego nowego narzędzia AI, które pomoże Ci szybko uzyskać odpowiedź na pytanie.","selectGrades":{"title":"Wybierz klasę:","gradeNotSelected":"Wybierz klasę, aby zadać pytanie.","primarySchool":"Szkoła podstawowa","secondarySchool":"Szkoła ponadpodstawowa","class":"{{ number }} klasa"},"validationMessages":{"tooShort":"Wiadomość musi składać się z min. 10 znaków","tooLong":"Zmniejsz liczbę znaków","empty":"Pole nie może być puste"},"conversation":{"copyTemplate":"{{ question }}\n{{ answer }}\nOdrabiamy AI"},"answerRating":{"question":"Czy ta odpowiedź była pomocna?","thumbUp":"Łapka w górę","thumbDown":"Łapka w dół","thankForFeedback":"Dziękujemy za opinię!","surveyTitle":"Powiedz nam więcej","sendFeedback":"Wyślij opinię","surveyOptions":{"contains_errors":"Zawiera błędy","contains_outdated_data":"Zawiera nieaktualne dane","off_the_topic":"Nie na temat","too_long":"Jest za długa","too_short":"Jest za krótka","incomprehensible":"Jest niezrozumiała","too_difficult":"Jest za trudna"}},"conversationSuggestions":{"startLearningTogether":"Zacznijmy razem naukę! 🚀📚 Po prostu zadaj mi pytanie! Pamiętaj, tylko jedno na raz\u0026nbsp🙋","suggestionsHeader":"Sprawdź wskazówki na temat zadawania pytań, aby dostać najlepszą odpowiedź:","suggestionsData":["\u003cstrong\u003eZadbaj o poprawność\u003c/strong\u003e - zadbaj o poprawność gramatyczną i ortograficzną. Literówki lub błędy gramatyczne mogą utrudnić uzyskanie odpowiedzi.","\u003cstrong\u003eBądź precyzyjny/a\u003c/strong\u003e - zwróć uwagę na detale, opisz wszystkie szczegóły.","\u003cstrong\u003eWyjaśnij kontekst\u003c/strong\u003e - dokładny kontekst pytania pomoże lepiej dopasować odpowiedź do Twoich potrzeb.","\u003cstrong\u003eWpisz całe polecenie\u003c/strong\u003e - jeśli chcesz uzyskać pomoc z zadaniem lub pytaniem, pamiętaj, aby opisać dokładnie całe polecenie.","\u003cstrong\u003eUżywaj słów kluczowych.\u003c/strong\u003e","\u003cstrong\u003eKorzystaj z języka naturalnego\u003c/strong\u003e - zamiast skrótów lub skomplikowanych terminów.","\u003cstrong\u003eWskaż limity słów/znaków\u003c/strong\u003e - jeśli odpowiedź ma zawierać limit słów lub znaków, napisz o tym.","\u003cstrong\u003eBądź wyrozumiały/a\u003c/strong\u003e - AI nie jest w stanie odpowiedzieć na wszystkie pytania. Asystent nie umie jeszcze tworzyć treści nt. wyobrażeń, doświadczeń, opinii czy interpretacji lub grafik np. rysunków, diagramów itd."]},"confirmDialog":{"title":"Czy na pewno chcesz zamknąć czat?","confirmButton":"Tak, zamknij","cancelButton":"Anuluj"}},"aiView":{"title":"AI w odpowiedzi na pytania użytkowników Odrabiamy","description":"AI z pomocą dla Odrabiamy - zapomnij o długich poszukiwaniach odpowiedzi zadań domowych. Poznaj odpowiedzi na pytania szkolne szybko i bez oczekiwania.","header":"Znajdź \u003c1\u003enatychmiastową odpowiedź\u003c/1\u003e na pytanie","conversationHeader":"Asystent AI","conversationList":{"header":"Wątki","today":"Dzisiaj","yesterday":"Wczoraj","thisMonth":"Ten miesiąc","newQuestion":"Nowe pytanie"},"placeholders":{"paywall":{"info":"Funkcjonalność dostępna dla użytkowników Premium"}}},"aiAssistantStatusModal":{"title":"Asystent AI jest niedostępny","reasons":{"user_daily_limit_reached":"Limit pytań na dzisiaj został wykorzystany.\nSpróbuj ponownie jutro.","server_error":"Nasz asystent AI jest obecnie niedostępny.\nSpróbuj ponownie później."},"closeModalButton":"Rozumiem"},"floatingButton":{"label":"Zadaj pytanie AI","header":"Zadaj pytanie AI"}},"tagSelect":{"deleteTag":"Usuń tag"}}}},"initialLocale":"pl","ns":["exercises","ai","common"],"userConfig":{"i18n":{"defaultLocale":"pl","locales":["pl"]},"localePath":"/app/public/static/locales","react":{"useSuspense":false},"debug":false,"default":{"i18n":{"defaultLocale":"pl","locales":["pl"]},"localePath":"/app/public/static/locales","react":{"useSuspense":false},"debug":false}}}},"__N_SSG":true},"page":"/[subjectParam]/[bookParam]/[[...pageExerciseParam]]","query":{"subjectParam":"matematyka","bookParam":"ksiazka-11867"},"buildId":"6df98371e0fdd8a23f7811ae694924868e750b22","isFallback":false,"isExperimentalCompile":false,"gsp":true,"locale":"pl","locales":["pl"],"defaultLocale":"pl","scriptLoader":[]}
+  </script>
+  <script>
+   (function(){if (!document.body) return;var js = "window['__CF$cv$params']={r:'886f72e3ec973837',t:'MTcxNjI0MDg0NS41MzUwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();
+  </script>
+  <iframe height="1" style="position: absolute; top: 0px; left: 0px; border: none; visibility: hidden;" width="1">
+  </iframe>
+  <next-route-announcer>
+   <p aria-live="assertive" id="__next-route-announcer__" role="alert" style="border: 0px; clip: rect(0px, 0px, 0px, 0px); height: 1px; margin: -1px; overflow: hidden; padding: 0px; position: absolute; top: 0px; width: 1px; white-space: nowrap; overflow-wrap: normal;">
+   </p>
+  </next-route-announcer>
+  <div data-radix-popper-content-wrapper="" style="position: fixed; left: 0px; top: 0px; transform: translate(299.2px, 68.8px); min-width: max-content; z-index: 120; --radix-popper-available-width: 1003.2000122070312px; --radix-popper-available-height: 574.2000122070312px; --radix-popper-anchor-width: 96.6875px; --radix-popper-anchor-height: 56px; --radix-popper-transform-origin: 81.99999999999997px -8px;">
+   <div class="Tooltip_tooltip__Brf3B Tooltip_primary__wBIMu" data-align="center" data-side="bottom" data-state="open" id="radix-:R16fm:" role="dialog" style="z-index: 120; --radix-popover-content-transform-origin: var(--radix-popper-transform-origin); --radix-popover-content-available-width: var(--radix-popper-available-width); --radix-popover-content-available-height: var(--radix-popper-available-height); --radix-popover-trigger-width: var(--radix-popper-anchor-width); --radix-popover-trigger-height: var(--radix-popper-anchor-height);" tabindex="-1">
+    <div class="Typography_margin__1oYQU Typography_caption-semibold__doVyh Typography_inherit-color__49B7q ClosableTooltip_primary__OoJZk">
+     Sprawdź nową
+zakładkę z kursami
+     <span>
+      <button class="ClosableTooltip_closeButton__Rvi5U">
+       <span class="Button_children___ADUh">
+        <svg color="var(--white)" height="8px" width="8px">
+         <use href="/_next/static/media/sprite.31fb17cb.svg#close">
+         </use>
+        </svg>
+       </span>
+      </button>
+     </span>
+    </div>
+    <span style="position: absolute; transform: rotate(180deg); left: 77px; top: 0px; transform-origin: center 0px;">
+     <svg class="Tooltip_arrow__eAAai" height="8" preserveaspectratio="none" style="display: block;" viewbox="0 0 30 10" width="10">
+      <polygon points="0,0 30,0 15,10">
+      </polygon>
+     </svg>
+    </span>
+   </div>
+  </div>
+  <span data-radix-focus-guard="" style="outline: none; opacity: 0; position: fixed; pointer-events: none;" tabindex="0">
+  </span>
+  <script src="/_next/static/chunks/962-bc25ab4860d4f180.js">
+  </script>
+  <script src="/_next/static/chunks/603-b928e010e4f6918f.js">
+  </script>
+  <script src="/_next/static/chunks/pages/auth/signin-37de817fc814e2ba.js">
+  </script>
+  <script src="/_next/static/chunks/711-1050abb4e0159b83.js">
+  </script>
+  <script src="/_next/static/chunks/766-24f6f808ed7c4f9a.js">
+  </script>
+  <script src="/_next/static/chunks/114-48ffc6fd4ce57b7f.js">
+  </script>
+  <script src="/_next/static/chunks/803-8fc7773b470ed5e5.js">
+  </script>
+  <script src="/_next/static/chunks/pages/tablica-f82ca017e27e607f.js">
+  </script>
+  <script src="/_next/static/chunks/pages/asystent-ai/%5B%5B...aiParams%5D%5D-00a5b9d474814c6e.js">
+  </script>
+  <script src="/_next/static/chunks/607-56aacc02c35591cc.js">
+  </script>
+  <script src="/_next/static/chunks/167-8a3d996cf1cd2e07.js">
+  </script>
+  <script src="/_next/static/chunks/pages/moje-ee1df4b2f80722c8.js">
+  </script>
+  <script src="/_next/static/chunks/233-c4d6675806fabd7f.js">
+  </script>
+  <script src="/_next/static/chunks/pages/premium-97b46998dcd57403.js">
+  </script>
+  <script src="/_next/static/chunks/pages/index-44673ba2d2720e27.js">
+  </script>
+ </body>
+</html>
